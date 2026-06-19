@@ -68,7 +68,7 @@ function Header() {
       </nav>
       <div className="rounded-2xl border border-eleo-line bg-eleo-card p-6 shadow-soft md:p-8">
         <p className="inline-flex items-center gap-2 rounded-full border border-eleo-green/25 bg-eleo-green/10 px-3 py-1 text-[0.7rem] font-medium uppercase tracking-[0.16em] text-eleo-green"><span className="h-1.5 w-1.5 rounded-full bg-eleo-green" />DrugDeck</p>
-        <h1 className="mt-5 max-w-3xl font-serif text-4xl font-light leading-tight tracking-[-0.03em] md:text-6xl">Master drugs by <em className="text-eleo-green">scope</em>, not by chaos.</h1>
+        <h1 className="mt-5 max-w-5xl font-serif text-4xl font-light leading-tight tracking-[-0.03em] md:text-6xl">Master drugs by <em className="text-eleo-green">scope</em>, not by bulk.</h1>
         <p className="mt-4 max-w-2xl text-base font-light leading-7 text-eleo-muted md:text-lg">Focused flashcards and high-yield quizzes for Top 250 drugs. Choose area, choose class, then learn only what you came to master.</p>
         <div className="mt-6 flex flex-wrap gap-2 text-xs text-eleo-muted">
           <Pill>{meta.drug_count} drugs</Pill>
