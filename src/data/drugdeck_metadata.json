@@ -1,0 +1,17 @@
+{
+  "drug_count": 250,
+  "quiz_count": 1784,
+  "quiz_type_counts": {
+    "brand_to_generic": 284,
+    "generic_to_area": 250,
+    "generic_to_brand": 250,
+    "generic_to_class": 250,
+    "generic_to_interaction": 250,
+    "generic_to_moa": 250,
+    "generic_to_side_effect": 250
+  },
+  "notes": [
+    "Drug names are stored in Pascal Case. The UI appends \u00ae to brand names during rendering only.",
+    "MOA, side effects, and interactions are high-yield study aids and should be reviewed clinically before public use."
+  ]
+}

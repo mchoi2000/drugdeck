@@ -1,0 +1,7800 @@
+[
+  {
+    "id": "drug_0001",
+    "generic": "Lisinopril",
+    "brands": [
+      "Prinivil",
+      "Zestril"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure",
+    "class": "ACE Inhibitors",
+    "moa": {
+      "short": "Blocks ACE \u2192 less angiotensin II and aldosterone \u2192 lower blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Dry Cough"
+      ],
+      "serious": [
+        "Hyperkalemia",
+        "Angioedema"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Potassium Supplements",
+        "effect": "Increased risk of hyperkalemia",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Reduced antihypertensive effect and kidney risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0002",
+    "generic": "Lisinopril/hydrochlorothiazide",
+    "brands": [
+      "Prinzide",
+      "Zestoretic"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension",
+    "class": "ACE Inhibitors",
+    "moa": {
+      "short": "Blocks ACE \u2192 less angiotensin II and aldosterone \u2192 lower blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Dry Cough"
+      ],
+      "serious": [
+        "Hyperkalemia",
+        "Angioedema"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Potassium Supplements",
+        "effect": "Increased risk of hyperkalemia",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Reduced antihypertensive effect and kidney risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0003",
+    "generic": "Enalapril",
+    "brands": [
+      "Vasotec"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure",
+    "class": "ACE Inhibitors",
+    "moa": {
+      "short": "Blocks ACE \u2192 less angiotensin II and aldosterone \u2192 lower blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Dry Cough"
+      ],
+      "serious": [
+        "Hyperkalemia",
+        "Angioedema"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Potassium Supplements",
+        "effect": "Increased risk of hyperkalemia",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Reduced antihypertensive effect and kidney risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0004",
+    "generic": "Ramipril",
+    "brands": [
+      "Altace"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure",
+    "class": "ACE Inhibitors",
+    "moa": {
+      "short": "Blocks ACE \u2192 less angiotensin II and aldosterone \u2192 lower blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Dry Cough"
+      ],
+      "serious": [
+        "Hyperkalemia",
+        "Angioedema"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Potassium Supplements",
+        "effect": "Increased risk of hyperkalemia",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Reduced antihypertensive effect and kidney risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0005",
+    "generic": "Losartan",
+    "brands": [
+      "Cozaar"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure",
+    "class": "ARBs",
+    "moa": {
+      "short": "Blocks angiotensin II receptors \u2192 relaxes blood vessels and lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Hyperkalemia"
+      ],
+      "serious": [
+        "Dizziness",
+        "Kidney Function Changes"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Potassium Supplements",
+        "effect": "Increased risk of hyperkalemia",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Reduced BP effect and kidney risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0006",
+    "generic": "Olmesartan",
+    "brands": [
+      "Benicar"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure",
+    "class": "ARBs",
+    "moa": {
+      "short": "Blocks angiotensin II receptors \u2192 relaxes blood vessels and lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Hyperkalemia"
+      ],
+      "serious": [
+        "Dizziness",
+        "Kidney Function Changes"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Potassium Supplements",
+        "effect": "Increased risk of hyperkalemia",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Reduced BP effect and kidney risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0007",
+    "generic": "Valsartan",
+    "brands": [
+      "Diovan"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure",
+    "class": "ARBs",
+    "moa": {
+      "short": "Blocks angiotensin II receptors \u2192 relaxes blood vessels and lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Hyperkalemia"
+      ],
+      "serious": [
+        "Dizziness",
+        "Kidney Function Changes"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Potassium Supplements",
+        "effect": "Increased risk of hyperkalemia",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Reduced BP effect and kidney risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0008",
+    "generic": "Atenolol",
+    "brands": [
+      "Tenormin"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure / Angina",
+    "class": "Beta Blockers",
+    "moa": {
+      "short": "Blocks beta receptors \u2192 slows heart rate and lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Bradycardia"
+      ],
+      "serious": [
+        "Fatigue",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Channel Blockers",
+        "effect": "Increased risk of bradycardia or heart block",
+        "severity": "major"
+      },
+      {
+        "with": "Insulin",
+        "effect": "May mask symptoms of hypoglycemia",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0009",
+    "generic": "Metoprolol tartrate",
+    "brands": [
+      "Lopressor"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure / Angina",
+    "class": "Beta Blockers",
+    "moa": {
+      "short": "Blocks beta receptors \u2192 slows heart rate and lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Bradycardia"
+      ],
+      "serious": [
+        "Fatigue",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Channel Blockers",
+        "effect": "Increased risk of bradycardia or heart block",
+        "severity": "major"
+      },
+      {
+        "with": "Insulin",
+        "effect": "May mask symptoms of hypoglycemia",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0010",
+    "generic": "Metoprolol succinate",
+    "brands": [
+      "Toprol XL"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure / Angina",
+    "class": "Beta Blockers",
+    "moa": {
+      "short": "Blocks beta receptors \u2192 slows heart rate and lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Bradycardia"
+      ],
+      "serious": [
+        "Fatigue",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Channel Blockers",
+        "effect": "Increased risk of bradycardia or heart block",
+        "severity": "major"
+      },
+      {
+        "with": "Insulin",
+        "effect": "May mask symptoms of hypoglycemia",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0011",
+    "generic": "Nebivolol",
+    "brands": [
+      "Bystolic"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure / Angina",
+    "class": "Beta Blockers",
+    "moa": {
+      "short": "Blocks beta receptors \u2192 slows heart rate and lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Bradycardia"
+      ],
+      "serious": [
+        "Fatigue",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Channel Blockers",
+        "effect": "Increased risk of bradycardia or heart block",
+        "severity": "major"
+      },
+      {
+        "with": "Insulin",
+        "effect": "May mask symptoms of hypoglycemia",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0012",
+    "generic": "Propranolol",
+    "brands": [
+      "Inderal"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure / Angina",
+    "class": "Beta Blockers",
+    "moa": {
+      "short": "Blocks beta receptors \u2192 slows heart rate and lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Bradycardia"
+      ],
+      "serious": [
+        "Fatigue",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Channel Blockers",
+        "effect": "Increased risk of bradycardia or heart block",
+        "severity": "major"
+      },
+      {
+        "with": "Insulin",
+        "effect": "May mask symptoms of hypoglycemia",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0013",
+    "generic": "Carvedilol",
+    "brands": [
+      "Coreg"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Heart Failure / Angina",
+    "class": "Beta Blockers",
+    "moa": {
+      "short": "Blocks beta receptors \u2192 slows heart rate and lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Bradycardia"
+      ],
+      "serious": [
+        "Fatigue",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Channel Blockers",
+        "effect": "Increased risk of bradycardia or heart block",
+        "severity": "major"
+      },
+      {
+        "with": "Insulin",
+        "effect": "May mask symptoms of hypoglycemia",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0014",
+    "generic": "Nifedipine XL",
+    "brands": [
+      "Procardia XL"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Angina",
+    "class": "Calcium Channel Blockers",
+    "moa": {
+      "short": "Blocks calcium entry into vascular or cardiac muscle \u2192 lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Peripheral Edema"
+      ],
+      "serious": [
+        "Dizziness",
+        "Constipation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Increased risk of bradycardia with non-DHP agents",
+        "severity": "major"
+      },
+      {
+        "with": "Grapefruit Juice",
+        "effect": "May increase drug levels",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0015",
+    "generic": "Amlodipine",
+    "brands": [
+      "Norvasc"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Angina",
+    "class": "Calcium Channel Blockers",
+    "moa": {
+      "short": "Blocks calcium entry into vascular or cardiac muscle \u2192 lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Peripheral Edema"
+      ],
+      "serious": [
+        "Dizziness",
+        "Constipation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Increased risk of bradycardia with non-DHP agents",
+        "severity": "major"
+      },
+      {
+        "with": "Grapefruit Juice",
+        "effect": "May increase drug levels",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0016",
+    "generic": "Amlodipine/benazepril",
+    "brands": [
+      "Lotrel"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Angina",
+    "class": "Calcium Channel Blockers",
+    "moa": {
+      "short": "Blocks calcium entry into vascular or cardiac muscle \u2192 lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Peripheral Edema"
+      ],
+      "serious": [
+        "Dizziness",
+        "Constipation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Increased risk of bradycardia with non-DHP agents",
+        "severity": "major"
+      },
+      {
+        "with": "Grapefruit Juice",
+        "effect": "May increase drug levels",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0017",
+    "generic": "Diltiazem",
+    "brands": [
+      "Cardizem CD"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Angina",
+    "class": "Calcium Channel Blockers",
+    "moa": {
+      "short": "Blocks calcium entry into vascular or cardiac muscle \u2192 lowers blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Peripheral Edema"
+      ],
+      "serious": [
+        "Dizziness",
+        "Constipation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Increased risk of bradycardia with non-DHP agents",
+        "severity": "major"
+      },
+      {
+        "with": "Grapefruit Juice",
+        "effect": "May increase drug levels",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0018",
+    "generic": "Hydrochlorothiazide",
+    "brands": [
+      "Microzide"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Edema / Heart Failure",
+    "class": "Diuretics",
+    "moa": {
+      "short": "Increases renal salt and water excretion \u2192 reduces fluid volume and blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Electrolyte Imbalance"
+      ],
+      "serious": [
+        "Dehydration",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Lithium",
+        "effect": "May increase lithium levels",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "May reduce diuretic effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0019",
+    "generic": "Metolazone",
+    "brands": [
+      "Zaroxolyn"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Edema / Heart Failure",
+    "class": "Diuretics",
+    "moa": {
+      "short": "Increases renal salt and water excretion \u2192 reduces fluid volume and blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Electrolyte Imbalance"
+      ],
+      "serious": [
+        "Dehydration",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Lithium",
+        "effect": "May increase lithium levels",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "May reduce diuretic effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0020",
+    "generic": "Furosemide",
+    "brands": [
+      "Lasix"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Edema / Heart Failure",
+    "class": "Diuretics",
+    "moa": {
+      "short": "Increases renal salt and water excretion \u2192 reduces fluid volume and blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Electrolyte Imbalance"
+      ],
+      "serious": [
+        "Dehydration",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Lithium",
+        "effect": "May increase lithium levels",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "May reduce diuretic effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0021",
+    "generic": "Torsemide",
+    "brands": [
+      "Demadex"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Edema / Heart Failure",
+    "class": "Diuretics",
+    "moa": {
+      "short": "Increases renal salt and water excretion \u2192 reduces fluid volume and blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Electrolyte Imbalance"
+      ],
+      "serious": [
+        "Dehydration",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Lithium",
+        "effect": "May increase lithium levels",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "May reduce diuretic effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0022",
+    "generic": "Bumetanide",
+    "brands": [
+      "Bumex"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Edema / Heart Failure",
+    "class": "Diuretics",
+    "moa": {
+      "short": "Increases renal salt and water excretion \u2192 reduces fluid volume and blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Electrolyte Imbalance"
+      ],
+      "serious": [
+        "Dehydration",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Lithium",
+        "effect": "May increase lithium levels",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "May reduce diuretic effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0023",
+    "generic": "Spironolactone",
+    "brands": [
+      "Aldactone"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hypertension / Edema / Heart Failure",
+    "class": "Diuretics",
+    "moa": {
+      "short": "Increases renal salt and water excretion \u2192 reduces fluid volume and blood pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Electrolyte Imbalance"
+      ],
+      "serious": [
+        "Dehydration",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Lithium",
+        "effect": "May increase lithium levels",
+        "severity": "major"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "May reduce diuretic effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0024",
+    "generic": "Pravastatin",
+    "brands": [
+      "Pravachol"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia / ASCVD Prevention",
+    "class": "Statins",
+    "moa": {
+      "short": "Inhibits HMG-CoA reductase \u2192 lowers LDL cholesterol."
+    },
+    "side_effects": {
+      "common": [
+        "Myalgia"
+      ],
+      "serious": [
+        "Liver Enzyme Elevation",
+        "Rhabdomyolysis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Macrolides",
+        "effect": "Increased risk of myopathy",
+        "severity": "major"
+      },
+      {
+        "with": "Grapefruit Juice",
+        "effect": "May increase statin levels",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0025",
+    "generic": "Simvastatin",
+    "brands": [
+      "Zocor"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia / ASCVD Prevention",
+    "class": "Statins",
+    "moa": {
+      "short": "Inhibits HMG-CoA reductase \u2192 lowers LDL cholesterol."
+    },
+    "side_effects": {
+      "common": [
+        "Myalgia"
+      ],
+      "serious": [
+        "Liver Enzyme Elevation",
+        "Rhabdomyolysis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Macrolides",
+        "effect": "Increased myopathy risk",
+        "severity": "major"
+      },
+      {
+        "with": "Grapefruit Juice",
+        "effect": "May increase simvastatin levels",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0026",
+    "generic": "Simvastatin/ezetimibe",
+    "brands": [
+      "Vytorin"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia / ASCVD Prevention",
+    "class": "Statins",
+    "moa": {
+      "short": "Inhibits HMG-CoA reductase \u2192 lowers LDL cholesterol."
+    },
+    "side_effects": {
+      "common": [
+        "Myalgia"
+      ],
+      "serious": [
+        "Liver Enzyme Elevation",
+        "Rhabdomyolysis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Macrolides",
+        "effect": "Increased risk of myopathy",
+        "severity": "major"
+      },
+      {
+        "with": "Grapefruit Juice",
+        "effect": "May increase statin levels",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0027",
+    "generic": "Atorvastatin",
+    "brands": [
+      "Lipitor"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia / ASCVD Prevention",
+    "class": "Statins",
+    "moa": {
+      "short": "Inhibits HMG-CoA reductase \u2192 lowers LDL cholesterol."
+    },
+    "side_effects": {
+      "common": [
+        "Myalgia"
+      ],
+      "serious": [
+        "Liver Enzyme Elevation",
+        "Rhabdomyolysis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Macrolides",
+        "effect": "Increased myopathy risk",
+        "severity": "major"
+      },
+      {
+        "with": "Grapefruit Juice",
+        "effect": "May increase atorvastatin levels",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0028",
+    "generic": "Rosuvastatin",
+    "brands": [
+      "Crestor"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia / ASCVD Prevention",
+    "class": "Statins",
+    "moa": {
+      "short": "Inhibits HMG-CoA reductase \u2192 lowers LDL cholesterol."
+    },
+    "side_effects": {
+      "common": [
+        "Myalgia"
+      ],
+      "serious": [
+        "Liver Enzyme Elevation",
+        "Rhabdomyolysis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Cyclosporine",
+        "effect": "May increase statin exposure",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0029",
+    "generic": "Fenofibrate",
+    "brands": [
+      "Tricor"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia",
+    "class": "Other Agents for Dyslipidemias",
+    "moa": {
+      "short": "Improves lipid profile by lowering triglycerides or cholesterol absorption."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Myalgia",
+        "Liver Enzyme Elevation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Statins",
+        "effect": "Increased risk of myopathy with fibrates or niacin",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0030",
+    "generic": "Gemfibrozil",
+    "brands": [
+      "Lopid"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia",
+    "class": "Other Agents for Dyslipidemias",
+    "moa": {
+      "short": "Improves lipid profile by lowering triglycerides or cholesterol absorption."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Myalgia",
+        "Liver Enzyme Elevation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Statins",
+        "effect": "Increased risk of myopathy with fibrates or niacin",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0031",
+    "generic": "Omega-3 Acid Ethyl Esters",
+    "brands": [
+      "Lovaza"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia",
+    "class": "Other Agents for Dyslipidemias",
+    "moa": {
+      "short": "Improves lipid profile by lowering triglycerides or cholesterol absorption."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Myalgia",
+        "Liver Enzyme Elevation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Statins",
+        "effect": "Increased risk of myopathy with fibrates or niacin",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0032",
+    "generic": "Niacin",
+    "brands": [
+      "Niaspan"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia",
+    "class": "Other Agents for Dyslipidemias",
+    "moa": {
+      "short": "Improves lipid profile by lowering triglycerides or cholesterol absorption."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Myalgia",
+        "Liver Enzyme Elevation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Statins",
+        "effect": "Increased risk of myopathy with fibrates or niacin",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0033",
+    "generic": "Ezetimibe",
+    "brands": [
+      "Zetia"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia",
+    "class": "Other Agents for Dyslipidemias",
+    "moa": {
+      "short": "Improves lipid profile by lowering triglycerides or cholesterol absorption."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Myalgia",
+        "Liver Enzyme Elevation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Statins",
+        "effect": "Increased risk of myopathy with fibrates or niacin",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0034",
+    "generic": "Colesevelam",
+    "brands": [
+      "Welchol"
+    ],
+    "area": "Cardiovascular",
+    "category": "Hyperlipidemia",
+    "class": "Other Agents for Dyslipidemias",
+    "moa": {
+      "short": "Improves lipid profile by lowering triglycerides or cholesterol absorption."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Myalgia",
+        "Liver Enzyme Elevation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Statins",
+        "effect": "Increased risk of myopathy with fibrates or niacin",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0035",
+    "generic": "Aspirin",
+    "brands": [],
+    "area": "Cardiovascular",
+    "category": "Thrombosis Prevention / Cardiovascular Disease",
+    "class": "Antiplatelets",
+    "moa": {
+      "short": "Reduces platelet activation or aggregation \u2192 lowers clot formation risk."
+    },
+    "side_effects": {
+      "common": [
+        "Bleeding"
+      ],
+      "serious": [
+        "Bruising",
+        "GI Irritation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Anticoagulants",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0036",
+    "generic": "Aspirin/Dipyridamole",
+    "brands": [
+      "Aggrenox"
+    ],
+    "area": "Cardiovascular",
+    "category": "Thrombosis Prevention / Cardiovascular Disease",
+    "class": "Antiplatelets",
+    "moa": {
+      "short": "Reduces platelet activation or aggregation \u2192 lowers clot formation risk."
+    },
+    "side_effects": {
+      "common": [
+        "Bleeding"
+      ],
+      "serious": [
+        "Bruising",
+        "GI Irritation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Anticoagulants",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0037",
+    "generic": "Clopidogrel",
+    "brands": [
+      "Plavix"
+    ],
+    "area": "Cardiovascular",
+    "category": "Thrombosis Prevention / Cardiovascular Disease",
+    "class": "Antiplatelets",
+    "moa": {
+      "short": "Reduces platelet activation or aggregation \u2192 lowers clot formation risk."
+    },
+    "side_effects": {
+      "common": [
+        "Bleeding"
+      ],
+      "serious": [
+        "Bruising",
+        "GI Irritation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Anticoagulants",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0038",
+    "generic": "Prasugrel",
+    "brands": [
+      "Effient"
+    ],
+    "area": "Cardiovascular",
+    "category": "Thrombosis Prevention / Cardiovascular Disease",
+    "class": "Antiplatelets",
+    "moa": {
+      "short": "Reduces platelet activation or aggregation \u2192 lowers clot formation risk."
+    },
+    "side_effects": {
+      "common": [
+        "Bleeding"
+      ],
+      "serious": [
+        "Bruising",
+        "GI Irritation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Anticoagulants",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0039",
+    "generic": "Ticagrelor",
+    "brands": [
+      "Brilinta"
+    ],
+    "area": "Cardiovascular",
+    "category": "Thrombosis Prevention / Cardiovascular Disease",
+    "class": "Antiplatelets",
+    "moa": {
+      "short": "Reduces platelet activation or aggregation \u2192 lowers clot formation risk."
+    },
+    "side_effects": {
+      "common": [
+        "Bleeding"
+      ],
+      "serious": [
+        "Bruising",
+        "GI Irritation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Anticoagulants",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0040",
+    "generic": "Warfarin",
+    "brands": [
+      "Coumadin"
+    ],
+    "area": "Cardiovascular",
+    "category": "Anticoagulation / Thrombosis Prevention",
+    "class": "Traditional Anticoagulants",
+    "moa": {
+      "short": "Inhibits vitamin K\u2013dependent clotting factor synthesis."
+    },
+    "side_effects": {
+      "common": [
+        "Bleeding"
+      ],
+      "serious": [
+        "Bruising",
+        "Skin Necrosis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Amiodarone",
+        "effect": "May increase INR",
+        "severity": "major"
+      },
+      {
+        "with": "Vitamin K",
+        "effect": "May reduce warfarin effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0041",
+    "generic": "Enoxaparin",
+    "brands": [
+      "Lovenox"
+    ],
+    "area": "Cardiovascular",
+    "category": "Anticoagulation / Thrombosis Prevention",
+    "class": "Traditional Anticoagulants",
+    "moa": {
+      "short": "Reduces clotting activity \u2192 prevents or treats blood clots."
+    },
+    "side_effects": {
+      "common": [
+        "Bleeding"
+      ],
+      "serious": [
+        "Bruising",
+        "Anemia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Aspirin",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0042",
+    "generic": "Dabigatran",
+    "brands": [
+      "Pradaxa"
+    ],
+    "area": "Cardiovascular",
+    "category": "Anticoagulation / Thrombosis Prevention",
+    "class": "NOACs",
+    "moa": {
+      "short": "Directly inhibits key clotting factors \u2192 prevents or treats blood clots."
+    },
+    "side_effects": {
+      "common": [
+        "Bleeding"
+      ],
+      "serious": [
+        "Bruising",
+        "Anemia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Antiplatelets",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0043",
+    "generic": "Rivaroxaban",
+    "brands": [
+      "Xarelto"
+    ],
+    "area": "Cardiovascular",
+    "category": "Anticoagulation / Thrombosis Prevention",
+    "class": "NOACs",
+    "moa": {
+      "short": "Directly inhibits key clotting factors \u2192 prevents or treats blood clots."
+    },
+    "side_effects": {
+      "common": [
+        "Bleeding"
+      ],
+      "serious": [
+        "Bruising",
+        "Anemia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Antiplatelets",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0044",
+    "generic": "Apixaban",
+    "brands": [
+      "Eliquis"
+    ],
+    "area": "Cardiovascular",
+    "category": "Anticoagulation / Thrombosis Prevention",
+    "class": "NOACs",
+    "moa": {
+      "short": "Directly inhibits key clotting factors \u2192 prevents or treats blood clots."
+    },
+    "side_effects": {
+      "common": [
+        "Bleeding"
+      ],
+      "serious": [
+        "Bruising",
+        "Anemia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Antiplatelets",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0045",
+    "generic": "Nitroglycerin",
+    "brands": [
+      "Nitrostat"
+    ],
+    "area": "Cardiovascular",
+    "category": "Angina",
+    "class": "Antianginals",
+    "moa": {
+      "short": "Donates nitric oxide \u2192 vasodilation and angina relief."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Dizziness",
+        "Hypotension"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Sildenafil",
+        "effect": "Severe hypotension risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "Tadalafil",
+        "effect": "Severe hypotension risk",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0046",
+    "generic": "Isosorbide mononitrate",
+    "brands": [
+      "Imdur"
+    ],
+    "area": "Cardiovascular",
+    "category": "Angina",
+    "class": "Antianginals",
+    "moa": {
+      "short": "Improves blood flow or reduces cardiac workload to relieve angina."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Dizziness",
+        "Hypotension"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Sildenafil",
+        "effect": "Severe hypotension with nitrates",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "Tadalafil",
+        "effect": "Severe hypotension with nitrates",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0047",
+    "generic": "Ranolazine",
+    "brands": [
+      "Ranexa"
+    ],
+    "area": "Cardiovascular",
+    "category": "Angina",
+    "class": "Antianginals",
+    "moa": {
+      "short": "Improves blood flow or reduces cardiac workload to relieve angina."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Dizziness",
+        "Hypotension"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Sildenafil",
+        "effect": "Severe hypotension with nitrates",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "Tadalafil",
+        "effect": "Severe hypotension with nitrates",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0048",
+    "generic": "Amiodarone",
+    "brands": [
+      "Cordarone",
+      "Pacerone"
+    ],
+    "area": "Cardiovascular",
+    "category": "Arrhythmias / Heart Failure",
+    "class": "Other Cardiovascular Agents",
+    "moa": {
+      "short": "Blocks potassium channels and other cardiac pathways to control arrhythmias."
+    },
+    "side_effects": {
+      "common": [
+        "Pulmonary Toxicity"
+      ],
+      "serious": [
+        "Thyroid Dysfunction",
+        "Photosensitivity"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR",
+        "severity": "major"
+      },
+      {
+        "with": "Digoxin",
+        "effect": "May increase digoxin levels",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0049",
+    "generic": "Digoxin",
+    "brands": [
+      "Lanoxin"
+    ],
+    "area": "Cardiovascular",
+    "category": "Arrhythmias / Heart Failure",
+    "class": "Other Cardiovascular Agents",
+    "moa": {
+      "short": "Inhibits Na/K ATPase \u2192 increases cardiac contractility and affects conduction."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Visual Changes",
+        "Arrhythmias"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Amiodarone",
+        "effect": "May increase digoxin levels",
+        "severity": "major"
+      },
+      {
+        "with": "Diuretics",
+        "effect": "Low potassium may increase digoxin toxicity",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0050",
+    "generic": "Fluticasone",
+    "brands": [
+      "Flovent"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "Inhaled Corticosteroids and LABAs",
+    "moa": {
+      "short": "Reduces airway inflammation and/or relaxes bronchial smooth muscle."
+    },
+    "side_effects": {
+      "common": [
+        "Oral Thrush"
+      ],
+      "serious": [
+        "Hoarseness",
+        "Tremor"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Other LABAs",
+        "effect": "Avoid duplicate LABA therapy",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0051",
+    "generic": "Budesonide",
+    "brands": [
+      "Pulmicort"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "Inhaled Corticosteroids and LABAs",
+    "moa": {
+      "short": "Reduces airway inflammation and/or relaxes bronchial smooth muscle."
+    },
+    "side_effects": {
+      "common": [
+        "Oral Thrush"
+      ],
+      "serious": [
+        "Hoarseness",
+        "Tremor"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Other LABAs",
+        "effect": "Avoid duplicate LABA therapy",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0052",
+    "generic": "Salmeterol",
+    "brands": [
+      "Serevent"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "Inhaled Corticosteroids and LABAs",
+    "moa": {
+      "short": "Reduces airway inflammation and/or relaxes bronchial smooth muscle."
+    },
+    "side_effects": {
+      "common": [
+        "Oral Thrush"
+      ],
+      "serious": [
+        "Hoarseness",
+        "Tremor"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Other LABAs",
+        "effect": "Avoid duplicate LABA therapy",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0053",
+    "generic": "Formoterol",
+    "brands": [
+      "Foradil"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "Inhaled Corticosteroids and LABAs",
+    "moa": {
+      "short": "Reduces airway inflammation and/or relaxes bronchial smooth muscle."
+    },
+    "side_effects": {
+      "common": [
+        "Oral Thrush"
+      ],
+      "serious": [
+        "Hoarseness",
+        "Tremor"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Other LABAs",
+        "effect": "Avoid duplicate LABA therapy",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0054",
+    "generic": "Fluticasone/salmeterol",
+    "brands": [
+      "Advair"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "Inhaled Corticosteroids and LABAs",
+    "moa": {
+      "short": "Reduces airway inflammation and/or relaxes bronchial smooth muscle."
+    },
+    "side_effects": {
+      "common": [
+        "Oral Thrush"
+      ],
+      "serious": [
+        "Hoarseness",
+        "Tremor"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Other LABAs",
+        "effect": "Avoid duplicate LABA therapy",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0055",
+    "generic": "Budesonide/formoterol",
+    "brands": [
+      "Symbicort"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "Inhaled Corticosteroids and LABAs",
+    "moa": {
+      "short": "Reduces airway inflammation and/or relaxes bronchial smooth muscle."
+    },
+    "side_effects": {
+      "common": [
+        "Oral Thrush"
+      ],
+      "serious": [
+        "Hoarseness",
+        "Tremor"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Other LABAs",
+        "effect": "Avoid duplicate LABA therapy",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0056",
+    "generic": "Albuterol",
+    "brands": [
+      "Ventolin",
+      "Proventil"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "SABAs and Anticholinergics",
+    "moa": {
+      "short": "Rapidly opens airways by bronchodilation."
+    },
+    "side_effects": {
+      "common": [
+        "Tremor"
+      ],
+      "serious": [
+        "Tachycardia",
+        "Dry Mouth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May reduce bronchodilator effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0057",
+    "generic": "Levalbuterol",
+    "brands": [
+      "Xopenex"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "SABAs and Anticholinergics",
+    "moa": {
+      "short": "Rapidly opens airways by bronchodilation."
+    },
+    "side_effects": {
+      "common": [
+        "Tremor"
+      ],
+      "serious": [
+        "Tachycardia",
+        "Dry Mouth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May reduce bronchodilator effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0058",
+    "generic": "Ipratropium",
+    "brands": [
+      "Atrovent"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "SABAs and Anticholinergics",
+    "moa": {
+      "short": "Rapidly opens airways by bronchodilation."
+    },
+    "side_effects": {
+      "common": [
+        "Tremor"
+      ],
+      "serious": [
+        "Tachycardia",
+        "Dry Mouth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May reduce bronchodilator effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0059",
+    "generic": "Tiotropium",
+    "brands": [
+      "Spiriva"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "SABAs and Anticholinergics",
+    "moa": {
+      "short": "Rapidly opens airways by bronchodilation."
+    },
+    "side_effects": {
+      "common": [
+        "Tremor"
+      ],
+      "serious": [
+        "Tachycardia",
+        "Dry Mouth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May reduce bronchodilator effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0060",
+    "generic": "Albuterol/Ipratropium",
+    "brands": [
+      "Combivent",
+      "DuoNeb"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / COPD",
+    "class": "SABAs and Anticholinergics",
+    "moa": {
+      "short": "Rapidly opens airways by bronchodilation."
+    },
+    "side_effects": {
+      "common": [
+        "Tremor"
+      ],
+      "serious": [
+        "Tachycardia",
+        "Dry Mouth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May reduce bronchodilator effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0061",
+    "generic": "Montelukast",
+    "brands": [
+      "Singulair"
+    ],
+    "area": "Respiratory",
+    "category": "Asthma / Allergic Rhinitis",
+    "class": "Other Respiratory Agents",
+    "moa": {
+      "short": "Blocks leukotriene activity \u2192 reduces asthma and allergy inflammation."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Mood Changes",
+        "Abdominal Pain"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS-active Drugs",
+        "effect": "Monitor for mood or behavior changes",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0062",
+    "generic": "Omeprazole",
+    "brands": [
+      "Prilosec"
+    ],
+    "area": "Gastrointestinal",
+    "category": "GERD / Peptic Ulcer Disease",
+    "class": "Proton Pump Inhibitors",
+    "moa": {
+      "short": "Suppresses gastric acid by blocking the proton pump."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Low Magnesium"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Clopidogrel",
+        "effect": "May reduce clopidogrel activation with some PPIs",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0063",
+    "generic": "Esomeprazole",
+    "brands": [
+      "Nexium"
+    ],
+    "area": "Gastrointestinal",
+    "category": "GERD / Peptic Ulcer Disease",
+    "class": "Proton Pump Inhibitors",
+    "moa": {
+      "short": "Suppresses gastric acid by blocking the proton pump."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Low Magnesium"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Clopidogrel",
+        "effect": "May reduce clopidogrel activation with some PPIs",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0064",
+    "generic": "Pantoprazole",
+    "brands": [
+      "Protonix"
+    ],
+    "area": "Gastrointestinal",
+    "category": "GERD / Peptic Ulcer Disease",
+    "class": "Proton Pump Inhibitors",
+    "moa": {
+      "short": "Suppresses gastric acid by blocking the proton pump."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Low Magnesium"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Clopidogrel",
+        "effect": "May reduce clopidogrel activation with some PPIs",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0065",
+    "generic": "Lansoprazole",
+    "brands": [
+      "Prevacid"
+    ],
+    "area": "Gastrointestinal",
+    "category": "GERD / Peptic Ulcer Disease",
+    "class": "Proton Pump Inhibitors",
+    "moa": {
+      "short": "Suppresses gastric acid by blocking the proton pump."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Low Magnesium"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Clopidogrel",
+        "effect": "May reduce clopidogrel activation with some PPIs",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0066",
+    "generic": "Dexlansoprazole",
+    "brands": [
+      "Dexilant"
+    ],
+    "area": "Gastrointestinal",
+    "category": "GERD / Peptic Ulcer Disease",
+    "class": "Proton Pump Inhibitors",
+    "moa": {
+      "short": "Suppresses gastric acid by blocking the proton pump."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Low Magnesium"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Clopidogrel",
+        "effect": "May reduce clopidogrel activation with some PPIs",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0067",
+    "generic": "Famotidine",
+    "brands": [
+      "Pepcid"
+    ],
+    "area": "Gastrointestinal",
+    "category": "GERD / Peptic Ulcer Disease",
+    "class": "H2 Receptor Blockers",
+    "moa": {
+      "short": "Blocks H2 receptors \u2192 decreases stomach acid production."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Dizziness",
+        "Confusion"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Acid-dependent Drugs",
+        "effect": "May reduce absorption of some drugs",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0068",
+    "generic": "Ranitidine",
+    "brands": [
+      "Zantac"
+    ],
+    "area": "Gastrointestinal",
+    "category": "GERD / Peptic Ulcer Disease",
+    "class": "H2 Receptor Blockers",
+    "moa": {
+      "short": "Blocks H2 receptors \u2192 decreases stomach acid production."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Dizziness",
+        "Confusion"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Acid-dependent Drugs",
+        "effect": "May reduce absorption of some drugs",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0069",
+    "generic": "Senna",
+    "brands": [
+      "Senokot"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Constipation",
+    "class": "Laxatives",
+    "moa": {
+      "short": "Promotes bowel movements by stimulating motility or softening stool."
+    },
+    "side_effects": {
+      "common": [
+        "Cramping"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Electrolyte Imbalance"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Diuretics",
+        "effect": "Increased dehydration or electrolyte risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0070",
+    "generic": "Bisacodyl",
+    "brands": [
+      "Dulcolax"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Constipation",
+    "class": "Laxatives",
+    "moa": {
+      "short": "Promotes bowel movements by stimulating motility or softening stool."
+    },
+    "side_effects": {
+      "common": [
+        "Cramping"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Electrolyte Imbalance"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Diuretics",
+        "effect": "Increased dehydration or electrolyte risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0071",
+    "generic": "Docusate",
+    "brands": [
+      "Colace"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Constipation",
+    "class": "Laxatives",
+    "moa": {
+      "short": "Promotes bowel movements by stimulating motility or softening stool."
+    },
+    "side_effects": {
+      "common": [
+        "Cramping"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Electrolyte Imbalance"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Diuretics",
+        "effect": "Increased dehydration or electrolyte risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0072",
+    "generic": "Senna/docusate",
+    "brands": [
+      "Senokot-S"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Constipation",
+    "class": "Laxatives",
+    "moa": {
+      "short": "Promotes bowel movements by stimulating motility or softening stool."
+    },
+    "side_effects": {
+      "common": [
+        "Cramping"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Electrolyte Imbalance"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Diuretics",
+        "effect": "Increased dehydration or electrolyte risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0073",
+    "generic": "PEG 3350",
+    "brands": [
+      "MiraLAX"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Constipation",
+    "class": "Laxatives",
+    "moa": {
+      "short": "Promotes bowel movements by stimulating motility or softening stool."
+    },
+    "side_effects": {
+      "common": [
+        "Cramping"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Electrolyte Imbalance"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Diuretics",
+        "effect": "Increased dehydration or electrolyte risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0074",
+    "generic": "PEG 3350 with electrolytes",
+    "brands": [
+      "GoLYTELY"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Constipation",
+    "class": "Laxatives",
+    "moa": {
+      "short": "Promotes bowel movements by stimulating motility or softening stool."
+    },
+    "side_effects": {
+      "common": [
+        "Cramping"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Electrolyte Imbalance"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Diuretics",
+        "effect": "Increased dehydration or electrolyte risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0075",
+    "generic": "Dicyclomine",
+    "brands": [
+      "Bentyl"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Diarrhea / Ulcerative Colitis / GI Spasm",
+    "class": "Diarrhea and Ulcerative Colitis",
+    "moa": {
+      "short": "Reduces bowel symptoms or gut inflammation depending on agent."
+    },
+    "side_effects": {
+      "common": [
+        "Constipation"
+      ],
+      "serious": [
+        "Drowsiness",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with some agents",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0076",
+    "generic": "Loperamide",
+    "brands": [
+      "Imodium"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Diarrhea / Ulcerative Colitis / GI Spasm",
+    "class": "Diarrhea and Ulcerative Colitis",
+    "moa": {
+      "short": "Reduces bowel symptoms or gut inflammation depending on agent."
+    },
+    "side_effects": {
+      "common": [
+        "Constipation"
+      ],
+      "serious": [
+        "Drowsiness",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with some agents",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0077",
+    "generic": "Diphenoxylate/atropine",
+    "brands": [
+      "Lomotil"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Diarrhea / Ulcerative Colitis / GI Spasm",
+    "class": "Diarrhea and Ulcerative Colitis",
+    "moa": {
+      "short": "Reduces bowel symptoms or gut inflammation depending on agent."
+    },
+    "side_effects": {
+      "common": [
+        "Constipation"
+      ],
+      "serious": [
+        "Drowsiness",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with some agents",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0078",
+    "generic": "Mesalamine",
+    "brands": [
+      "Asacol-HD",
+      "Delzicol",
+      "and more"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Diarrhea / Ulcerative Colitis / GI Spasm",
+    "class": "Diarrhea and Ulcerative Colitis",
+    "moa": {
+      "short": "Reduces bowel symptoms or gut inflammation depending on agent."
+    },
+    "side_effects": {
+      "common": [
+        "Constipation"
+      ],
+      "serious": [
+        "Drowsiness",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with some agents",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0079",
+    "generic": "Ondansetron",
+    "brands": [
+      "Zofran"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Nausea / Vomiting",
+    "class": "Nausea",
+    "moa": {
+      "short": "Blocks nausea pathways in the gut, dopamine system, or serotonin system."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "QT Prolongation",
+        "Constipation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased arrhythmia risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0080",
+    "generic": "Prochlorperazine",
+    "brands": [
+      "Compazine"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Nausea / Vomiting",
+    "class": "Nausea",
+    "moa": {
+      "short": "Blocks nausea pathways in the gut, dopamine system, or serotonin system."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "QT Prolongation",
+        "Constipation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased arrhythmia risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0081",
+    "generic": "Promethazine",
+    "brands": [
+      "Phenergan"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Nausea / Vomiting",
+    "class": "Nausea",
+    "moa": {
+      "short": "Blocks nausea pathways in the gut, dopamine system, or serotonin system."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "QT Prolongation",
+        "Constipation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased arrhythmia risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0082",
+    "generic": "Metoclopramide",
+    "brands": [
+      "Reglan"
+    ],
+    "area": "Gastrointestinal",
+    "category": "Nausea / Vomiting",
+    "class": "Nausea",
+    "moa": {
+      "short": "Blocks nausea pathways in the gut, dopamine system, or serotonin system."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "QT Prolongation",
+        "Constipation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased arrhythmia risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0083",
+    "generic": "Cinacalcet",
+    "brands": [
+      "Sensipar"
+    ],
+    "area": "Renal",
+    "category": "Chronic Kidney Disease / Electrolyte Management",
+    "class": "Renal Medications",
+    "moa": {
+      "short": "Manages kidney-related mineral, electrolyte, or hormone imbalance."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Hypocalcemia",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Products",
+        "effect": "May affect phosphate binder effectiveness",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0084",
+    "generic": "Sevelamer carbonate",
+    "brands": [
+      "Renvela"
+    ],
+    "area": "Renal",
+    "category": "Chronic Kidney Disease / Electrolyte Management",
+    "class": "Renal Medications",
+    "moa": {
+      "short": "Manages kidney-related mineral, electrolyte, or hormone imbalance."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Hypocalcemia",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Products",
+        "effect": "May affect phosphate binder effectiveness",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0085",
+    "generic": "Potassium chloride",
+    "brands": [
+      "Klor-Con and more"
+    ],
+    "area": "Renal",
+    "category": "Chronic Kidney Disease / Electrolyte Management",
+    "class": "Renal Medications",
+    "moa": {
+      "short": "Manages kidney-related mineral, electrolyte, or hormone imbalance."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Hypocalcemia",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Products",
+        "effect": "May affect phosphate binder effectiveness",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0086",
+    "generic": "Epoetin alfa",
+    "brands": [
+      "Epogen",
+      "Procrit"
+    ],
+    "area": "Renal",
+    "category": "Anemia of Chronic Kidney Disease",
+    "class": "ESAs",
+    "moa": {
+      "short": "Stimulates red blood cell production."
+    },
+    "side_effects": {
+      "common": [
+        "Hypertension"
+      ],
+      "serious": [
+        "Thrombosis Risk",
+        "Headache"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Antihypertensives",
+        "effect": "May need BP monitoring",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0087",
+    "generic": "Darbepoetin",
+    "brands": [
+      "Aranesp"
+    ],
+    "area": "Renal",
+    "category": "Anemia of Chronic Kidney Disease",
+    "class": "ESAs",
+    "moa": {
+      "short": "Stimulates red blood cell production."
+    },
+    "side_effects": {
+      "common": [
+        "Hypertension"
+      ],
+      "serious": [
+        "Thrombosis Risk",
+        "Headache"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Antihypertensives",
+        "effect": "May need BP monitoring",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0088",
+    "generic": "Sumatriptan",
+    "brands": [
+      "Imitrex"
+    ],
+    "area": "Neurologic",
+    "category": "Migraine / Headache",
+    "class": "Headache",
+    "moa": {
+      "short": "Relieves migraine or headache symptoms through vascular or CNS pathways."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dizziness",
+        "Chest Tightness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "SSRIs",
+        "effect": "Serotonin syndrome risk with triptans",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0089",
+    "generic": "Eletriptan",
+    "brands": [
+      "Relpax"
+    ],
+    "area": "Neurologic",
+    "category": "Migraine / Headache",
+    "class": "Headache",
+    "moa": {
+      "short": "Relieves migraine or headache symptoms through vascular or CNS pathways."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dizziness",
+        "Chest Tightness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "SSRIs",
+        "effect": "Serotonin syndrome risk with triptans",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0090",
+    "generic": "Rizatriptan",
+    "brands": [
+      "Maxalt"
+    ],
+    "area": "Neurologic",
+    "category": "Migraine / Headache",
+    "class": "Headache",
+    "moa": {
+      "short": "Relieves migraine or headache symptoms through vascular or CNS pathways."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dizziness",
+        "Chest Tightness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "SSRIs",
+        "effect": "Serotonin syndrome risk with triptans",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0091",
+    "generic": "Butalbital, acetaminophen, caffeine",
+    "brands": [
+      "Fioricet"
+    ],
+    "area": "Neurologic",
+    "category": "Migraine / Headache",
+    "class": "Headache",
+    "moa": {
+      "short": "Relieves migraine or headache symptoms through vascular or CNS pathways."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dizziness",
+        "Chest Tightness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "SSRIs",
+        "effect": "Serotonin syndrome risk with triptans",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0092",
+    "generic": "Butalbital, aspirin, caffeine",
+    "brands": [
+      "Fiorinal"
+    ],
+    "area": "Neurologic",
+    "category": "Migraine / Headache",
+    "class": "Headache",
+    "moa": {
+      "short": "Relieves migraine or headache symptoms through vascular or CNS pathways."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dizziness",
+        "Chest Tightness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "SSRIs",
+        "effect": "Serotonin syndrome risk with triptans",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0093",
+    "generic": "Phenytoin",
+    "brands": [
+      "Dilantin"
+    ],
+    "area": "Neurologic",
+    "category": "Seizure Disorders",
+    "class": "Epilepsy",
+    "moa": {
+      "short": "Stabilizes neuronal activity to reduce seizure frequency."
+    },
+    "side_effects": {
+      "common": [
+        "Dizziness"
+      ],
+      "serious": [
+        "Drowsiness",
+        "Rash"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0094",
+    "generic": "Valproic acid",
+    "brands": [
+      "Depakote",
+      "Depakene"
+    ],
+    "area": "Neurologic",
+    "category": "Seizure Disorders",
+    "class": "Epilepsy",
+    "moa": {
+      "short": "Stabilizes neuronal activity to reduce seizure frequency."
+    },
+    "side_effects": {
+      "common": [
+        "Dizziness"
+      ],
+      "serious": [
+        "Drowsiness",
+        "Rash"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0095",
+    "generic": "Lamotrigine",
+    "brands": [
+      "Lamictal"
+    ],
+    "area": "Neurologic",
+    "category": "Seizure Disorders",
+    "class": "Epilepsy",
+    "moa": {
+      "short": "Stabilizes neuronal activity to reduce seizure frequency."
+    },
+    "side_effects": {
+      "common": [
+        "Dizziness"
+      ],
+      "serious": [
+        "Drowsiness",
+        "Rash"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0096",
+    "generic": "Carbamazepine",
+    "brands": [
+      "Tegretol",
+      "Carbatrol"
+    ],
+    "area": "Neurologic",
+    "category": "Seizure Disorders",
+    "class": "Epilepsy",
+    "moa": {
+      "short": "Stabilizes neuronal activity to reduce seizure frequency."
+    },
+    "side_effects": {
+      "common": [
+        "Dizziness"
+      ],
+      "serious": [
+        "Drowsiness",
+        "Rash"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0097",
+    "generic": "Oxcarbazepine",
+    "brands": [
+      "Trileptal"
+    ],
+    "area": "Neurologic",
+    "category": "Seizure Disorders",
+    "class": "Epilepsy",
+    "moa": {
+      "short": "Stabilizes neuronal activity to reduce seizure frequency."
+    },
+    "side_effects": {
+      "common": [
+        "Dizziness"
+      ],
+      "serious": [
+        "Drowsiness",
+        "Rash"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0098",
+    "generic": "Levetiracetam",
+    "brands": [
+      "Keppra"
+    ],
+    "area": "Neurologic",
+    "category": "Seizure Disorders",
+    "class": "Epilepsy",
+    "moa": {
+      "short": "Stabilizes neuronal activity to reduce seizure frequency."
+    },
+    "side_effects": {
+      "common": [
+        "Dizziness"
+      ],
+      "serious": [
+        "Drowsiness",
+        "Rash"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0099",
+    "generic": "Morphine",
+    "brands": [
+      "MS Contin [ER]"
+    ],
+    "area": "Neurologic",
+    "category": "Pain",
+    "class": "Opioid Analgesics",
+    "moa": {
+      "short": "Activates opioid receptors \u2192 reduces pain signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Respiratory Depression"
+      ],
+      "serious": [
+        "Constipation",
+        "Sedation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Benzodiazepines",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0100",
+    "generic": "Hydromorphone",
+    "brands": [
+      "Dilaudid [IR]"
+    ],
+    "area": "Neurologic",
+    "category": "Pain",
+    "class": "Opioid Analgesics",
+    "moa": {
+      "short": "Activates opioid receptors \u2192 reduces pain signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Respiratory Depression"
+      ],
+      "serious": [
+        "Constipation",
+        "Sedation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Benzodiazepines",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0101",
+    "generic": "Oxycodone",
+    "brands": [
+      "Oxycontin [ER]"
+    ],
+    "area": "Neurologic",
+    "category": "Pain",
+    "class": "Opioid Analgesics",
+    "moa": {
+      "short": "Activates opioid receptors \u2192 reduces pain signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Respiratory Depression"
+      ],
+      "serious": [
+        "Constipation",
+        "Sedation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Benzodiazepines",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0102",
+    "generic": "Oxycodone/APAP",
+    "brands": [
+      "Percocet",
+      "Roxicet"
+    ],
+    "area": "Neurologic",
+    "category": "Pain",
+    "class": "Opioid Analgesics",
+    "moa": {
+      "short": "Activates opioid receptors \u2192 reduces pain signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Respiratory Depression"
+      ],
+      "serious": [
+        "Constipation",
+        "Sedation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Benzodiazepines",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0103",
+    "generic": "Fentanyl",
+    "brands": [
+      "Duragesic"
+    ],
+    "area": "Neurologic",
+    "category": "Pain",
+    "class": "Opioid Analgesics",
+    "moa": {
+      "short": "Activates opioid receptors \u2192 reduces pain signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Respiratory Depression"
+      ],
+      "serious": [
+        "Constipation",
+        "Sedation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Benzodiazepines",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0104",
+    "generic": "Hydrocodone/APAP",
+    "brands": [
+      "Vicodin",
+      "Norco"
+    ],
+    "area": "Neurologic",
+    "category": "Pain",
+    "class": "Opioid Analgesics",
+    "moa": {
+      "short": "Activates opioid receptors \u2192 reduces pain signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Respiratory Depression"
+      ],
+      "serious": [
+        "Constipation",
+        "Sedation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Benzodiazepines",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0105",
+    "generic": "Buprenorphine/naloxone",
+    "brands": [
+      "Suboxone"
+    ],
+    "area": "Neurologic",
+    "category": "Pain",
+    "class": "Opioid Analgesics",
+    "moa": {
+      "short": "Activates opioid receptors \u2192 reduces pain signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Respiratory Depression"
+      ],
+      "serious": [
+        "Constipation",
+        "Sedation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Benzodiazepines",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0106",
+    "generic": "Codeine/APAP",
+    "brands": [
+      "Tylenol #3",
+      "Tylenol #4"
+    ],
+    "area": "Neurologic",
+    "category": "Pain",
+    "class": "Opioid Analgesics",
+    "moa": {
+      "short": "Activates opioid receptors \u2192 reduces pain signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Respiratory Depression"
+      ],
+      "serious": [
+        "Constipation",
+        "Sedation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Benzodiazepines",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0107",
+    "generic": "Tramadol",
+    "brands": [
+      "Ultram"
+    ],
+    "area": "Neurologic",
+    "category": "Pain",
+    "class": "Opioid Analgesics",
+    "moa": {
+      "short": "Activates opioid receptors \u2192 reduces pain signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Respiratory Depression"
+      ],
+      "serious": [
+        "Constipation",
+        "Sedation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Benzodiazepines",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0108",
+    "generic": "Meloxicam",
+    "brands": [
+      "Mobic"
+    ],
+    "area": "Neurologic",
+    "category": "Pain / Inflammation",
+    "class": "NSAIDs",
+    "moa": {
+      "short": "Inhibits COX enzymes \u2192 reduces pain, inflammation, and fever."
+    },
+    "side_effects": {
+      "common": [
+        "GI Bleeding"
+      ],
+      "serious": [
+        "Kidney Injury",
+        "Fluid Retention"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "ACE Inhibitors",
+        "effect": "Kidney risk and reduced BP effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0109",
+    "generic": "Naproxen",
+    "brands": [
+      "Naprosyn",
+      "Aleve"
+    ],
+    "area": "Neurologic",
+    "category": "Pain / Inflammation",
+    "class": "NSAIDs",
+    "moa": {
+      "short": "Inhibits COX enzymes \u2192 reduces pain, inflammation, and fever."
+    },
+    "side_effects": {
+      "common": [
+        "GI Bleeding"
+      ],
+      "serious": [
+        "Kidney Injury",
+        "Fluid Retention"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "ACE Inhibitors",
+        "effect": "Kidney risk and reduced BP effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0110",
+    "generic": "Ibuprofen",
+    "brands": [
+      "Advil",
+      "Motrin"
+    ],
+    "area": "Neurologic",
+    "category": "Pain / Inflammation",
+    "class": "NSAIDs",
+    "moa": {
+      "short": "Inhibits COX enzymes \u2192 reduces pain, inflammation, and fever."
+    },
+    "side_effects": {
+      "common": [
+        "GI Bleeding"
+      ],
+      "serious": [
+        "Kidney Injury",
+        "Fluid Retention"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "ACE Inhibitors",
+        "effect": "Kidney risk and reduced BP effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0111",
+    "generic": "Diclofenac",
+    "brands": [
+      "Voltaren"
+    ],
+    "area": "Neurologic",
+    "category": "Pain / Inflammation",
+    "class": "NSAIDs",
+    "moa": {
+      "short": "Inhibits COX enzymes \u2192 reduces pain, inflammation, and fever."
+    },
+    "side_effects": {
+      "common": [
+        "GI Bleeding"
+      ],
+      "serious": [
+        "Kidney Injury",
+        "Fluid Retention"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "ACE Inhibitors",
+        "effect": "Kidney risk and reduced BP effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0112",
+    "generic": "Celecoxib",
+    "brands": [
+      "Celebrex"
+    ],
+    "area": "Neurologic",
+    "category": "Pain / Inflammation",
+    "class": "NSAIDs",
+    "moa": {
+      "short": "Inhibits COX enzymes \u2192 reduces pain, inflammation, and fever."
+    },
+    "side_effects": {
+      "common": [
+        "GI Bleeding"
+      ],
+      "serious": [
+        "Kidney Injury",
+        "Fluid Retention"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "Increased bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "ACE Inhibitors",
+        "effect": "Kidney risk and reduced BP effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0113",
+    "generic": "Carisoprodol",
+    "brands": [
+      "Soma"
+    ],
+    "area": "Neurologic",
+    "category": "Muscle Spasm",
+    "class": "Muscle Relaxants",
+    "moa": {
+      "short": "Depresses CNS activity \u2192 reduces muscle spasm symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Sedation"
+      ],
+      "serious": [
+        "Dizziness",
+        "Dry Mouth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Alcohol",
+        "effect": "Additive sedation",
+        "severity": "major"
+      },
+      {
+        "with": "Opioids",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0114",
+    "generic": "Cyclobenzaprine",
+    "brands": [
+      "Flexeril"
+    ],
+    "area": "Neurologic",
+    "category": "Muscle Spasm",
+    "class": "Muscle Relaxants",
+    "moa": {
+      "short": "Depresses CNS activity \u2192 reduces muscle spasm symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Sedation"
+      ],
+      "serious": [
+        "Dizziness",
+        "Dry Mouth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Alcohol",
+        "effect": "Additive sedation",
+        "severity": "major"
+      },
+      {
+        "with": "Opioids",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0115",
+    "generic": "Gabapentin",
+    "brands": [
+      "Neurontin"
+    ],
+    "area": "Neurologic",
+    "category": "Neuropathic Pain / Pain",
+    "class": "Adjunct Medications for Pain",
+    "moa": {
+      "short": "Modulates nerve pain signaling or provides local analgesia."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dizziness",
+        "Edema"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Opioids",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0116",
+    "generic": "Pregabalin",
+    "brands": [
+      "Lyrica"
+    ],
+    "area": "Neurologic",
+    "category": "Neuropathic Pain / Pain",
+    "class": "Adjunct Medications for Pain",
+    "moa": {
+      "short": "Modulates nerve pain signaling or provides local analgesia."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dizziness",
+        "Edema"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Opioids",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0117",
+    "generic": "Lidocaine patch",
+    "brands": [
+      "Lidoderm"
+    ],
+    "area": "Neurologic",
+    "category": "Neuropathic Pain / Pain",
+    "class": "Adjunct Medications for Pain",
+    "moa": {
+      "short": "Modulates nerve pain signaling or provides local analgesia."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dizziness",
+        "Edema"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Opioids",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0118",
+    "generic": "Donepezil",
+    "brands": [
+      "Aricept"
+    ],
+    "area": "Neurologic",
+    "category": "Dementia",
+    "class": "Alzheimer's Disease",
+    "moa": {
+      "short": "Enhances cholinergic signaling or modulates glutamate to support cognition."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Dizziness",
+        "Bradycardia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Anticholinergics",
+        "effect": "May reduce cognitive benefit",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0119",
+    "generic": "Memantine",
+    "brands": [
+      "Namenda XR"
+    ],
+    "area": "Neurologic",
+    "category": "Dementia",
+    "class": "Alzheimer's Disease",
+    "moa": {
+      "short": "Enhances cholinergic signaling or modulates glutamate to support cognition."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Dizziness",
+        "Bradycardia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Anticholinergics",
+        "effect": "May reduce cognitive benefit",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0120",
+    "generic": "Nicotine Patch",
+    "brands": [
+      "Nicoderm CQ"
+    ],
+    "area": "Neurologic",
+    "category": "Smoking Cessation",
+    "class": "Smoking Cessation",
+    "moa": {
+      "short": "Reduces nicotine withdrawal or cravings."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Insomnia",
+        "Abnormal Dreams"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS-active Drugs",
+        "effect": "Monitor neuropsychiatric symptoms",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0121",
+    "generic": "Varenicline",
+    "brands": [
+      "Chantix"
+    ],
+    "area": "Neurologic",
+    "category": "Smoking Cessation",
+    "class": "Smoking Cessation",
+    "moa": {
+      "short": "Reduces nicotine withdrawal or cravings."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Insomnia",
+        "Abnormal Dreams"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS-active Drugs",
+        "effect": "Monitor neuropsychiatric symptoms",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0122",
+    "generic": "Olanzapine",
+    "brands": [
+      "Zyprexa"
+    ],
+    "area": "Psychiatric",
+    "category": "Psychosis / Bipolar Disorder",
+    "class": "Atypical Antipsychotics",
+    "moa": {
+      "short": "Modulates dopamine and serotonin pathways to treat psychosis or mood symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Weight Gain"
+      ],
+      "serious": [
+        "Sedation",
+        "Metabolic Changes"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      },
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased QT risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0123",
+    "generic": "Quetiapine",
+    "brands": [
+      "Seroquel"
+    ],
+    "area": "Psychiatric",
+    "category": "Psychosis / Bipolar Disorder",
+    "class": "Atypical Antipsychotics",
+    "moa": {
+      "short": "Modulates dopamine and serotonin pathways to treat psychosis or mood symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Weight Gain"
+      ],
+      "serious": [
+        "Sedation",
+        "Metabolic Changes"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      },
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased QT risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0124",
+    "generic": "Risperidone",
+    "brands": [
+      "Risperdal"
+    ],
+    "area": "Psychiatric",
+    "category": "Psychosis / Bipolar Disorder",
+    "class": "Atypical Antipsychotics",
+    "moa": {
+      "short": "Modulates dopamine and serotonin pathways to treat psychosis or mood symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Weight Gain"
+      ],
+      "serious": [
+        "Sedation",
+        "Metabolic Changes"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      },
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased QT risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0125",
+    "generic": "Ziprasidone",
+    "brands": [
+      "Geodon"
+    ],
+    "area": "Psychiatric",
+    "category": "Psychosis / Bipolar Disorder",
+    "class": "Atypical Antipsychotics",
+    "moa": {
+      "short": "Modulates dopamine and serotonin pathways to treat psychosis or mood symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Weight Gain"
+      ],
+      "serious": [
+        "Sedation",
+        "Metabolic Changes"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      },
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased QT risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0126",
+    "generic": "Aripiprazole",
+    "brands": [
+      "Abilify"
+    ],
+    "area": "Psychiatric",
+    "category": "Psychosis / Bipolar Disorder",
+    "class": "Atypical Antipsychotics",
+    "moa": {
+      "short": "Modulates dopamine and serotonin pathways to treat psychosis or mood symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Weight Gain"
+      ],
+      "serious": [
+        "Sedation",
+        "Metabolic Changes"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "moderate"
+      },
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased QT risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0127",
+    "generic": "Clonazepam",
+    "brands": [
+      "Klonopin"
+    ],
+    "area": "Psychiatric",
+    "category": "Anxiety / Seizures / Sedation",
+    "class": "Benzodiazepines",
+    "moa": {
+      "short": "Enhances GABA activity \u2192 calming, sedative, or anticonvulsant effects."
+    },
+    "side_effects": {
+      "common": [
+        "Sedation"
+      ],
+      "serious": [
+        "Dizziness",
+        "Dependence"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Opioids",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0128",
+    "generic": "Lorazepam",
+    "brands": [
+      "Ativan"
+    ],
+    "area": "Psychiatric",
+    "category": "Anxiety / Seizures / Sedation",
+    "class": "Benzodiazepines",
+    "moa": {
+      "short": "Enhances GABA activity \u2192 calming, sedative, or anticonvulsant effects."
+    },
+    "side_effects": {
+      "common": [
+        "Sedation"
+      ],
+      "serious": [
+        "Dizziness",
+        "Dependence"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Opioids",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0129",
+    "generic": "Diazepam",
+    "brands": [
+      "Valium"
+    ],
+    "area": "Psychiatric",
+    "category": "Anxiety / Seizures / Sedation",
+    "class": "Benzodiazepines",
+    "moa": {
+      "short": "Enhances GABA activity \u2192 calming, sedative, or anticonvulsant effects."
+    },
+    "side_effects": {
+      "common": [
+        "Sedation"
+      ],
+      "serious": [
+        "Dizziness",
+        "Dependence"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Opioids",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0130",
+    "generic": "Alprazolam",
+    "brands": [
+      "Xanax"
+    ],
+    "area": "Psychiatric",
+    "category": "Anxiety / Seizures / Sedation",
+    "class": "Benzodiazepines",
+    "moa": {
+      "short": "Enhances GABA activity \u2192 calming, sedative, or anticonvulsant effects."
+    },
+    "side_effects": {
+      "common": [
+        "Sedation"
+      ],
+      "serious": [
+        "Dizziness",
+        "Dependence"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Opioids",
+        "effect": "Severe respiratory depression risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS depression",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0131",
+    "generic": "Fluoxetine",
+    "brands": [
+      "Prozac"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety",
+    "class": "SSRIs",
+    "moa": {
+      "short": "Increases serotonin levels by blocking reuptake."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Sexual Dysfunction",
+        "Serotonin Syndrome"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin syndrome risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0132",
+    "generic": "Sertraline",
+    "brands": [
+      "Zoloft"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety",
+    "class": "SSRIs",
+    "moa": {
+      "short": "Increases serotonin levels by blocking reuptake."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Sexual Dysfunction",
+        "Serotonin Syndrome"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin syndrome risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0133",
+    "generic": "Paroxetine",
+    "brands": [
+      "Paxil"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety",
+    "class": "SSRIs",
+    "moa": {
+      "short": "Increases serotonin levels by blocking reuptake."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Sexual Dysfunction",
+        "Serotonin Syndrome"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin syndrome risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0134",
+    "generic": "Citalopram",
+    "brands": [
+      "Celexa"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety",
+    "class": "SSRIs",
+    "moa": {
+      "short": "Increases serotonin levels by blocking reuptake."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Sexual Dysfunction",
+        "Serotonin Syndrome"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin syndrome risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0135",
+    "generic": "Escitalopram",
+    "brands": [
+      "Lexapro"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety",
+    "class": "SSRIs",
+    "moa": {
+      "short": "Increases serotonin levels by blocking reuptake."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Sexual Dysfunction",
+        "Serotonin Syndrome"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin syndrome risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0136",
+    "generic": "Venlafaxine",
+    "brands": [
+      "Effexor",
+      "Effexor XR"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety / Neuropathic Pain",
+    "class": "SNRIs",
+    "moa": {
+      "short": "Increases serotonin and norepinephrine levels by blocking reuptake."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Hypertension",
+        "Serotonin Syndrome"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin syndrome risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0137",
+    "generic": "Desvenlafaxine",
+    "brands": [
+      "Pristiq"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety / Neuropathic Pain",
+    "class": "SNRIs",
+    "moa": {
+      "short": "Increases serotonin and norepinephrine levels by blocking reuptake."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Hypertension",
+        "Serotonin Syndrome"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin syndrome risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0138",
+    "generic": "Duloxetine",
+    "brands": [
+      "Cymbalta"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety / Neuropathic Pain",
+    "class": "SNRIs",
+    "moa": {
+      "short": "Increases serotonin and norepinephrine levels by blocking reuptake."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Hypertension",
+        "Serotonin Syndrome"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin syndrome risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "NSAIDs",
+        "effect": "Increased bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0139",
+    "generic": "Zolpidem",
+    "brands": [
+      "Ambien"
+    ],
+    "area": "Psychiatric",
+    "category": "Insomnia",
+    "class": "Non-Benzodiazepine Hypnotics",
+    "moa": {
+      "short": "Enhances GABA-related sleep signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dizziness",
+        "Complex Sleep Behaviors"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Alcohol",
+        "effect": "Additive sedation",
+        "severity": "major"
+      },
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0140",
+    "generic": "Eszopiclone",
+    "brands": [
+      "Lunesta"
+    ],
+    "area": "Psychiatric",
+    "category": "Insomnia",
+    "class": "Non-Benzodiazepine Hypnotics",
+    "moa": {
+      "short": "Enhances GABA-related sleep signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dizziness",
+        "Complex Sleep Behaviors"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Alcohol",
+        "effect": "Additive sedation",
+        "severity": "major"
+      },
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0141",
+    "generic": "Amitriptyline",
+    "brands": [
+      "Elavil"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety",
+    "class": "Other Antidepressants and Anti-Anxiety Agents",
+    "moa": {
+      "short": "Modulates neurotransmitters involved in mood and anxiety."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Weight Change"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin or hypertensive reaction risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS effects",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0142",
+    "generic": "Nortriptyline",
+    "brands": [
+      "Pamelor"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety",
+    "class": "Other Antidepressants and Anti-Anxiety Agents",
+    "moa": {
+      "short": "Modulates neurotransmitters involved in mood and anxiety."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Weight Change"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin or hypertensive reaction risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS effects",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0143",
+    "generic": "Trazodone",
+    "brands": [
+      "Desyrel"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety",
+    "class": "Other Antidepressants and Anti-Anxiety Agents",
+    "moa": {
+      "short": "Modulates neurotransmitters involved in mood and anxiety."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Weight Change"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin or hypertensive reaction risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS effects",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0144",
+    "generic": "Mirtazapine",
+    "brands": [
+      "Remeron"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety",
+    "class": "Other Antidepressants and Anti-Anxiety Agents",
+    "moa": {
+      "short": "Modulates neurotransmitters involved in mood and anxiety."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Weight Change"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin or hypertensive reaction risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS effects",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0145",
+    "generic": "Bupropion",
+    "brands": [
+      "Wellbutrin"
+    ],
+    "area": "Psychiatric",
+    "category": "Depression / Anxiety",
+    "class": "Other Antidepressants and Anti-Anxiety Agents",
+    "moa": {
+      "short": "Modulates neurotransmitters involved in mood and anxiety."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Weight Change"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Serotonin or hypertensive reaction risk",
+        "severity": "major"
+      },
+      {
+        "with": "Alcohol",
+        "effect": "Additive CNS effects",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0146",
+    "generic": "Methylphenidate",
+    "brands": [
+      "Ritalin",
+      "Concerta"
+    ],
+    "area": "Psychiatric",
+    "category": "ADHD / Wakefulness",
+    "class": "ADHD Agents",
+    "moa": {
+      "short": "Increases catecholamine signaling to improve attention and wakefulness."
+    },
+    "side_effects": {
+      "common": [
+        "Insomnia"
+      ],
+      "serious": [
+        "Decreased Appetite",
+        "Increased BP"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Hypertensive crisis risk",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0147",
+    "generic": "Amphetamine/dextroamphetamine",
+    "brands": [
+      "Adderall"
+    ],
+    "area": "Psychiatric",
+    "category": "ADHD / Wakefulness",
+    "class": "ADHD Agents",
+    "moa": {
+      "short": "Increases catecholamine signaling to improve attention and wakefulness."
+    },
+    "side_effects": {
+      "common": [
+        "Insomnia"
+      ],
+      "serious": [
+        "Decreased Appetite",
+        "Increased BP"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Hypertensive crisis risk",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0148",
+    "generic": "Lisdexamfetamine",
+    "brands": [
+      "Vyvanse"
+    ],
+    "area": "Psychiatric",
+    "category": "ADHD / Wakefulness",
+    "class": "ADHD Agents",
+    "moa": {
+      "short": "Increases catecholamine signaling to improve attention and wakefulness."
+    },
+    "side_effects": {
+      "common": [
+        "Insomnia"
+      ],
+      "serious": [
+        "Decreased Appetite",
+        "Increased BP"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Hypertensive crisis risk",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0149",
+    "generic": "Atomoxetine",
+    "brands": [
+      "Strattera"
+    ],
+    "area": "Psychiatric",
+    "category": "ADHD / Wakefulness",
+    "class": "ADHD Agents",
+    "moa": {
+      "short": "Increases catecholamine signaling to improve attention and wakefulness."
+    },
+    "side_effects": {
+      "common": [
+        "Insomnia"
+      ],
+      "serious": [
+        "Decreased Appetite",
+        "Increased BP"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Hypertensive crisis risk",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0150",
+    "generic": "Modafinil",
+    "brands": [
+      "Provigil"
+    ],
+    "area": "Psychiatric",
+    "category": "ADHD / Wakefulness",
+    "class": "ADHD Agents",
+    "moa": {
+      "short": "Increases catecholamine signaling to improve attention and wakefulness."
+    },
+    "side_effects": {
+      "common": [
+        "Insomnia"
+      ],
+      "serious": [
+        "Decreased Appetite",
+        "Increased BP"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Hypertensive crisis risk",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0151",
+    "generic": "Metformin",
+    "brands": [
+      "Glucophage"
+    ],
+    "area": "Endocrinology",
+    "category": "Type 2 Diabetes",
+    "class": "Oral Diabetic Agents",
+    "moa": {
+      "short": "Decreases hepatic glucose production and improves insulin sensitivity."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Diarrhea",
+        "Lactic Acidosis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Alcohol",
+        "effect": "Increased lactic acidosis risk",
+        "severity": "major"
+      },
+      {
+        "with": "Iodinated Contrast",
+        "effect": "Kidney injury may increase lactic acidosis risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0152",
+    "generic": "Sitagliptin",
+    "brands": [
+      "Januvia"
+    ],
+    "area": "Endocrinology",
+    "category": "Type 2 Diabetes",
+    "class": "Oral Diabetic Agents",
+    "moa": {
+      "short": "Improves blood glucose by reducing glucose production, increasing insulin action, or increasing urinary glucose loss."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "GI Upset",
+        "Genital Infections"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Insulin",
+        "effect": "Increased hypoglycemia risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0153",
+    "generic": "Glyburide",
+    "brands": [
+      "DiaBeta",
+      "Glynase"
+    ],
+    "area": "Endocrinology",
+    "category": "Type 2 Diabetes",
+    "class": "Oral Diabetic Agents",
+    "moa": {
+      "short": "Improves blood glucose by reducing glucose production, increasing insulin action, or increasing urinary glucose loss."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "GI Upset",
+        "Genital Infections"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Insulin",
+        "effect": "Increased hypoglycemia risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0154",
+    "generic": "Glimepiride",
+    "brands": [
+      "Amaryl"
+    ],
+    "area": "Endocrinology",
+    "category": "Type 2 Diabetes",
+    "class": "Oral Diabetic Agents",
+    "moa": {
+      "short": "Improves blood glucose by reducing glucose production, increasing insulin action, or increasing urinary glucose loss."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "GI Upset",
+        "Genital Infections"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Insulin",
+        "effect": "Increased hypoglycemia risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0155",
+    "generic": "Glipizide",
+    "brands": [
+      "Glucotrol"
+    ],
+    "area": "Endocrinology",
+    "category": "Type 2 Diabetes",
+    "class": "Oral Diabetic Agents",
+    "moa": {
+      "short": "Improves blood glucose by reducing glucose production, increasing insulin action, or increasing urinary glucose loss."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "GI Upset",
+        "Genital Infections"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Insulin",
+        "effect": "Increased hypoglycemia risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0156",
+    "generic": "Glyburide/metformin",
+    "brands": [
+      "Glucovance"
+    ],
+    "area": "Endocrinology",
+    "category": "Type 2 Diabetes",
+    "class": "Oral Diabetic Agents",
+    "moa": {
+      "short": "Improves blood glucose by reducing glucose production, increasing insulin action, or increasing urinary glucose loss."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "GI Upset",
+        "Genital Infections"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Insulin",
+        "effect": "Increased hypoglycemia risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0157",
+    "generic": "Sitagliptin/metformin",
+    "brands": [
+      "Janumet"
+    ],
+    "area": "Endocrinology",
+    "category": "Type 2 Diabetes",
+    "class": "Oral Diabetic Agents",
+    "moa": {
+      "short": "Improves blood glucose by reducing glucose production, increasing insulin action, or increasing urinary glucose loss."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "GI Upset",
+        "Genital Infections"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Insulin",
+        "effect": "Increased hypoglycemia risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0158",
+    "generic": "Rosiglitazone",
+    "brands": [
+      "Avandia"
+    ],
+    "area": "Endocrinology",
+    "category": "Type 2 Diabetes",
+    "class": "Oral Diabetic Agents",
+    "moa": {
+      "short": "Improves blood glucose by reducing glucose production, increasing insulin action, or increasing urinary glucose loss."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "GI Upset",
+        "Genital Infections"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Insulin",
+        "effect": "Increased hypoglycemia risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0159",
+    "generic": "Pioglitazone",
+    "brands": [
+      "Actos"
+    ],
+    "area": "Endocrinology",
+    "category": "Type 2 Diabetes",
+    "class": "Oral Diabetic Agents",
+    "moa": {
+      "short": "Improves blood glucose by reducing glucose production, increasing insulin action, or increasing urinary glucose loss."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "GI Upset",
+        "Genital Infections"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Insulin",
+        "effect": "Increased hypoglycemia risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0160",
+    "generic": "Canagliflozin",
+    "brands": [
+      "Invokana"
+    ],
+    "area": "Endocrinology",
+    "category": "Type 2 Diabetes",
+    "class": "Oral Diabetic Agents",
+    "moa": {
+      "short": "Improves blood glucose by reducing glucose production, increasing insulin action, or increasing urinary glucose loss."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "GI Upset",
+        "Genital Infections"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Insulin",
+        "effect": "Increased hypoglycemia risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0161",
+    "generic": "Insulin aspart",
+    "brands": [
+      "NovoLOG"
+    ],
+    "area": "Endocrinology",
+    "category": "Diabetes",
+    "class": "Injectable Diabetic Agents",
+    "moa": {
+      "short": "Lowers blood glucose by replacing insulin or enhancing incretin signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "Weight Gain",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May mask hypoglycemia symptoms",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0162",
+    "generic": "Insulin lispro",
+    "brands": [
+      "HumaLOG"
+    ],
+    "area": "Endocrinology",
+    "category": "Diabetes",
+    "class": "Injectable Diabetic Agents",
+    "moa": {
+      "short": "Lowers blood glucose by replacing insulin or enhancing incretin signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "Weight Gain",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May mask hypoglycemia symptoms",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0163",
+    "generic": "Insulin NPH",
+    "brands": [
+      "HumuLIN N",
+      "NovoLIN N"
+    ],
+    "area": "Endocrinology",
+    "category": "Diabetes",
+    "class": "Injectable Diabetic Agents",
+    "moa": {
+      "short": "Lowers blood glucose by replacing insulin or enhancing incretin signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "Weight Gain",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May mask hypoglycemia symptoms",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0164",
+    "generic": "Insulin glargine",
+    "brands": [
+      "Lantus"
+    ],
+    "area": "Endocrinology",
+    "category": "Diabetes",
+    "class": "Injectable Diabetic Agents",
+    "moa": {
+      "short": "Lowers blood glucose by replacing insulin or enhancing incretin signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "Weight Gain",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May mask hypoglycemia symptoms",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0165",
+    "generic": "Insulin detemir",
+    "brands": [
+      "Levemir"
+    ],
+    "area": "Endocrinology",
+    "category": "Diabetes",
+    "class": "Injectable Diabetic Agents",
+    "moa": {
+      "short": "Lowers blood glucose by replacing insulin or enhancing incretin signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "Weight Gain",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May mask hypoglycemia symptoms",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0166",
+    "generic": "Exenatide",
+    "brands": [
+      "Byetta"
+    ],
+    "area": "Endocrinology",
+    "category": "Diabetes",
+    "class": "Injectable Diabetic Agents",
+    "moa": {
+      "short": "Lowers blood glucose by replacing insulin or enhancing incretin signaling."
+    },
+    "side_effects": {
+      "common": [
+        "Hypoglycemia"
+      ],
+      "serious": [
+        "Weight Gain",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "May mask hypoglycemia symptoms",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0167",
+    "generic": "Norgestimate/ethinyl estradiol",
+    "brands": [
+      "Sprintec",
+      "Ortho Tri-Cyclen",
+      "TriNessa"
+    ],
+    "area": "Endocrinology",
+    "category": "Contraception",
+    "class": "Contraceptives",
+    "moa": {
+      "short": "Provides hormones that prevent ovulation or pregnancy."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Breast Tenderness",
+        "Clot Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Enzyme Inducers",
+        "effect": "May reduce contraceptive effectiveness",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0168",
+    "generic": "Drospirenone/ethinyl estradiol",
+    "brands": [
+      "Yaz",
+      "Yasmin"
+    ],
+    "area": "Endocrinology",
+    "category": "Contraception",
+    "class": "Contraceptives",
+    "moa": {
+      "short": "Provides hormones that prevent ovulation or pregnancy."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Breast Tenderness",
+        "Clot Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Enzyme Inducers",
+        "effect": "May reduce contraceptive effectiveness",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0169",
+    "generic": "Norethindrone",
+    "brands": [
+      "Micronor"
+    ],
+    "area": "Endocrinology",
+    "category": "Contraception",
+    "class": "Contraceptives",
+    "moa": {
+      "short": "Provides hormones that prevent ovulation or pregnancy."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Breast Tenderness",
+        "Clot Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Enzyme Inducers",
+        "effect": "May reduce contraceptive effectiveness",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0170",
+    "generic": "Norelgestromin/ethinyl estradiol",
+    "brands": [
+      "Ortho Evra"
+    ],
+    "area": "Endocrinology",
+    "category": "Contraception",
+    "class": "Contraceptives",
+    "moa": {
+      "short": "Provides hormones that prevent ovulation or pregnancy."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Breast Tenderness",
+        "Clot Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Enzyme Inducers",
+        "effect": "May reduce contraceptive effectiveness",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0171",
+    "generic": "Etonogestrel/ethinyl estradiol",
+    "brands": [
+      "NuvaRing"
+    ],
+    "area": "Endocrinology",
+    "category": "Contraception",
+    "class": "Contraceptives",
+    "moa": {
+      "short": "Provides hormones that prevent ovulation or pregnancy."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Breast Tenderness",
+        "Clot Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Enzyme Inducers",
+        "effect": "May reduce contraceptive effectiveness",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0172",
+    "generic": "Prednisone",
+    "brands": [
+      "Deltasone"
+    ],
+    "area": "Endocrinology",
+    "category": "Inflammation / Autoimmune Conditions",
+    "class": "Corticosteroids",
+    "moa": {
+      "short": "Suppresses inflammation and immune response."
+    },
+    "side_effects": {
+      "common": [
+        "Hyperglycemia"
+      ],
+      "serious": [
+        "Mood Changes",
+        "Fluid Retention"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased GI bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Vaccines",
+        "effect": "Reduced vaccine response with high-dose steroids",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0173",
+    "generic": "Methylprednisolone",
+    "brands": [
+      "Medrol"
+    ],
+    "area": "Endocrinology",
+    "category": "Inflammation / Autoimmune Conditions",
+    "class": "Corticosteroids",
+    "moa": {
+      "short": "Suppresses inflammation and immune response."
+    },
+    "side_effects": {
+      "common": [
+        "Hyperglycemia"
+      ],
+      "serious": [
+        "Mood Changes",
+        "Fluid Retention"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "NSAIDs",
+        "effect": "Increased GI bleeding risk",
+        "severity": "major"
+      },
+      {
+        "with": "Vaccines",
+        "effect": "Reduced vaccine response with high-dose steroids",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0174",
+    "generic": "Conjugated Estrogens",
+    "brands": [
+      "Premarin",
+      "Enjuvia",
+      "Cenestin"
+    ],
+    "area": "Endocrinology",
+    "category": "Hormone Replacement / Endocrine Therapy",
+    "class": "Hormonal Therapy",
+    "moa": {
+      "short": "Replaces or modulates hormone activity."
+    },
+    "side_effects": {
+      "common": [
+        "Hot Flashes"
+      ],
+      "serious": [
+        "Clot Risk",
+        "Hormonal Effects"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May affect anticoagulation response",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0175",
+    "generic": "Testosterone",
+    "brands": [
+      "AndroGel and more"
+    ],
+    "area": "Endocrinology",
+    "category": "Hormone Replacement / Endocrine Therapy",
+    "class": "Hormonal Therapy",
+    "moa": {
+      "short": "Replaces or modulates hormone activity."
+    },
+    "side_effects": {
+      "common": [
+        "Hot Flashes"
+      ],
+      "serious": [
+        "Clot Risk",
+        "Hormonal Effects"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May affect anticoagulation response",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0176",
+    "generic": "Levothyroxine",
+    "brands": [
+      "Synthroid"
+    ],
+    "area": "Endocrinology",
+    "category": "Hormone Replacement / Endocrine Therapy",
+    "class": "Hormonal Therapy",
+    "moa": {
+      "short": "Replaces thyroid hormone to normalize metabolic activity."
+    },
+    "side_effects": {
+      "common": [
+        "Palpitations"
+      ],
+      "serious": [
+        "Insomnia",
+        "Weight Loss"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium/Iron Supplements",
+        "effect": "Reduced levothyroxine absorption",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase anticoagulant effect",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0177",
+    "generic": "Anastrozole",
+    "brands": [
+      "Arimidex"
+    ],
+    "area": "Endocrinology",
+    "category": "Hormone Replacement / Endocrine Therapy",
+    "class": "Hormonal Therapy",
+    "moa": {
+      "short": "Replaces or modulates hormone activity."
+    },
+    "side_effects": {
+      "common": [
+        "Hot Flashes"
+      ],
+      "serious": [
+        "Clot Risk",
+        "Hormonal Effects"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May affect anticoagulation response",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0178",
+    "generic": "Tamoxifen",
+    "brands": [
+      "Nolvadex"
+    ],
+    "area": "Endocrinology",
+    "category": "Hormone Replacement / Endocrine Therapy",
+    "class": "Hormonal Therapy",
+    "moa": {
+      "short": "Replaces or modulates hormone activity."
+    },
+    "side_effects": {
+      "common": [
+        "Hot Flashes"
+      ],
+      "serious": [
+        "Clot Risk",
+        "Hormonal Effects"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May affect anticoagulation response",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0179",
+    "generic": "Terazosin",
+    "brands": [
+      "Hytrin"
+    ],
+    "area": "Urologic",
+    "category": "Benign Prostatic Hyperplasia",
+    "class": "BPH Alpha Blockers",
+    "moa": {
+      "short": "Relaxes smooth muscle in prostate and bladder neck \u2192 improves urine flow."
+    },
+    "side_effects": {
+      "common": [
+        "Orthostatic Hypotension"
+      ],
+      "serious": [
+        "Dizziness",
+        "Headache"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "PDE5 Inhibitors",
+        "effect": "Increased hypotension risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0180",
+    "generic": "Doxazosin",
+    "brands": [
+      "Cardura"
+    ],
+    "area": "Urologic",
+    "category": "Benign Prostatic Hyperplasia",
+    "class": "BPH Alpha Blockers",
+    "moa": {
+      "short": "Relaxes smooth muscle in prostate and bladder neck \u2192 improves urine flow."
+    },
+    "side_effects": {
+      "common": [
+        "Orthostatic Hypotension"
+      ],
+      "serious": [
+        "Dizziness",
+        "Headache"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "PDE5 Inhibitors",
+        "effect": "Increased hypotension risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0181",
+    "generic": "Alfuzosin",
+    "brands": [
+      "Uroxatral"
+    ],
+    "area": "Urologic",
+    "category": "Benign Prostatic Hyperplasia",
+    "class": "BPH Alpha Blockers",
+    "moa": {
+      "short": "Relaxes smooth muscle in prostate and bladder neck \u2192 improves urine flow."
+    },
+    "side_effects": {
+      "common": [
+        "Orthostatic Hypotension"
+      ],
+      "serious": [
+        "Dizziness",
+        "Headache"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "PDE5 Inhibitors",
+        "effect": "Increased hypotension risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0182",
+    "generic": "Tamsulosin",
+    "brands": [
+      "Flomax"
+    ],
+    "area": "Urologic",
+    "category": "Benign Prostatic Hyperplasia",
+    "class": "BPH Alpha Blockers",
+    "moa": {
+      "short": "Relaxes smooth muscle in prostate and bladder neck \u2192 improves urine flow."
+    },
+    "side_effects": {
+      "common": [
+        "Orthostatic Hypotension"
+      ],
+      "serious": [
+        "Dizziness",
+        "Headache"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "PDE5 Inhibitors",
+        "effect": "Increased hypotension risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0183",
+    "generic": "Dutasteride",
+    "brands": [
+      "Avodart"
+    ],
+    "area": "Urologic",
+    "category": "Benign Prostatic Hyperplasia",
+    "class": "5-Alpha Reductase Inhibitors",
+    "moa": {
+      "short": "Blocks conversion of testosterone to DHT \u2192 shrinks prostate over time."
+    },
+    "side_effects": {
+      "common": [
+        "Sexual Dysfunction"
+      ],
+      "serious": [
+        "Decreased Libido",
+        "Pregnancy Exposure Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Pregnancy",
+        "effect": "Avoid handling crushed tablets if pregnant",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0184",
+    "generic": "Finasteride",
+    "brands": [
+      "Proscar",
+      "Propecia"
+    ],
+    "area": "Urologic",
+    "category": "Benign Prostatic Hyperplasia",
+    "class": "5-Alpha Reductase Inhibitors",
+    "moa": {
+      "short": "Blocks conversion of testosterone to DHT \u2192 shrinks prostate over time."
+    },
+    "side_effects": {
+      "common": [
+        "Sexual Dysfunction"
+      ],
+      "serious": [
+        "Decreased Libido",
+        "Pregnancy Exposure Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Pregnancy",
+        "effect": "Avoid handling crushed tablets if pregnant",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0185",
+    "generic": "Sildenafil",
+    "brands": [
+      "Viagra"
+    ],
+    "area": "Urologic",
+    "category": "Erectile Dysfunction",
+    "class": "Erectile Dysfunction",
+    "moa": {
+      "short": "Inhibits PDE5 \u2192 increases blood flow for erectile function."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Flushing",
+        "Hypotension"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Nitrates",
+        "effect": "Severe hypotension risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "Alpha Blockers",
+        "effect": "Increased hypotension risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0186",
+    "generic": "Vardenafil",
+    "brands": [
+      "Levitra"
+    ],
+    "area": "Urologic",
+    "category": "Erectile Dysfunction",
+    "class": "Erectile Dysfunction",
+    "moa": {
+      "short": "Inhibits PDE5 \u2192 increases blood flow for erectile function."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Flushing",
+        "Hypotension"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Nitrates",
+        "effect": "Severe hypotension risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "Alpha Blockers",
+        "effect": "Increased hypotension risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0187",
+    "generic": "Tadalafil",
+    "brands": [
+      "Cialis"
+    ],
+    "area": "Urologic",
+    "category": "Erectile Dysfunction",
+    "class": "Erectile Dysfunction",
+    "moa": {
+      "short": "Inhibits PDE5 \u2192 increases blood flow for erectile function."
+    },
+    "side_effects": {
+      "common": [
+        "Headache"
+      ],
+      "serious": [
+        "Flushing",
+        "Hypotension"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Nitrates",
+        "effect": "Severe hypotension risk",
+        "severity": "contraindicated"
+      },
+      {
+        "with": "Alpha Blockers",
+        "effect": "Increased hypotension risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0188",
+    "generic": "Tolterodine",
+    "brands": [
+      "Detrol"
+    ],
+    "area": "Urologic",
+    "category": "Overactive Bladder",
+    "class": "Overactive Bladder",
+    "moa": {
+      "short": "Relaxes bladder muscle or reduces bladder contractions."
+    },
+    "side_effects": {
+      "common": [
+        "Dry Mouth"
+      ],
+      "serious": [
+        "Constipation",
+        "Blurred Vision"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Anticholinergics",
+        "effect": "Additive anticholinergic effects",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0189",
+    "generic": "Solifenacin",
+    "brands": [
+      "VESIcare"
+    ],
+    "area": "Urologic",
+    "category": "Overactive Bladder",
+    "class": "Overactive Bladder",
+    "moa": {
+      "short": "Relaxes bladder muscle or reduces bladder contractions."
+    },
+    "side_effects": {
+      "common": [
+        "Dry Mouth"
+      ],
+      "serious": [
+        "Constipation",
+        "Blurred Vision"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Anticholinergics",
+        "effect": "Additive anticholinergic effects",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0190",
+    "generic": "Darifenacin",
+    "brands": [
+      "Enablex"
+    ],
+    "area": "Urologic",
+    "category": "Overactive Bladder",
+    "class": "Overactive Bladder",
+    "moa": {
+      "short": "Relaxes bladder muscle or reduces bladder contractions."
+    },
+    "side_effects": {
+      "common": [
+        "Dry Mouth"
+      ],
+      "serious": [
+        "Constipation",
+        "Blurred Vision"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Anticholinergics",
+        "effect": "Additive anticholinergic effects",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0191",
+    "generic": "Risedronate",
+    "brands": [
+      "Actonel"
+    ],
+    "area": "Rheumatologic",
+    "category": "Osteoporosis",
+    "class": "Osteoporosis",
+    "moa": {
+      "short": "Slows bone resorption or improves bone density."
+    },
+    "side_effects": {
+      "common": [
+        "GI Irritation"
+      ],
+      "serious": [
+        "Musculoskeletal Pain",
+        "Jaw Osteonecrosis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Supplements",
+        "effect": "May reduce bisphosphonate absorption if taken together",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0192",
+    "generic": "Alendronate",
+    "brands": [
+      "Fosamax"
+    ],
+    "area": "Rheumatologic",
+    "category": "Osteoporosis",
+    "class": "Osteoporosis",
+    "moa": {
+      "short": "Slows bone resorption or improves bone density."
+    },
+    "side_effects": {
+      "common": [
+        "GI Irritation"
+      ],
+      "serious": [
+        "Musculoskeletal Pain",
+        "Jaw Osteonecrosis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Supplements",
+        "effect": "May reduce bisphosphonate absorption if taken together",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0193",
+    "generic": "Ibandronate",
+    "brands": [
+      "Boniva"
+    ],
+    "area": "Rheumatologic",
+    "category": "Osteoporosis",
+    "class": "Osteoporosis",
+    "moa": {
+      "short": "Slows bone resorption or improves bone density."
+    },
+    "side_effects": {
+      "common": [
+        "GI Irritation"
+      ],
+      "serious": [
+        "Musculoskeletal Pain",
+        "Jaw Osteonecrosis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Supplements",
+        "effect": "May reduce bisphosphonate absorption if taken together",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0194",
+    "generic": "Raloxifene",
+    "brands": [
+      "Evista"
+    ],
+    "area": "Rheumatologic",
+    "category": "Osteoporosis",
+    "class": "Osteoporosis",
+    "moa": {
+      "short": "Slows bone resorption or improves bone density."
+    },
+    "side_effects": {
+      "common": [
+        "GI Irritation"
+      ],
+      "serious": [
+        "Musculoskeletal Pain",
+        "Jaw Osteonecrosis"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium Supplements",
+        "effect": "May reduce bisphosphonate absorption if taken together",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0195",
+    "generic": "Infliximab",
+    "brands": [
+      "Remicade"
+    ],
+    "area": "Rheumatologic",
+    "category": "Rheumatoid Arthritis / Autoimmune Disease",
+    "class": "Rheumatoid Arthritis",
+    "moa": {
+      "short": "Suppresses immune-mediated inflammation to reduce joint damage."
+    },
+    "side_effects": {
+      "common": [
+        "Infection Risk"
+      ],
+      "serious": [
+        "Injection Site Reaction",
+        "Liver Toxicity"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Live Vaccines",
+        "effect": "Infection risk with immunosuppressants",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0196",
+    "generic": "Adalimumab",
+    "brands": [
+      "Humira"
+    ],
+    "area": "Rheumatologic",
+    "category": "Rheumatoid Arthritis / Autoimmune Disease",
+    "class": "Rheumatoid Arthritis",
+    "moa": {
+      "short": "Suppresses immune-mediated inflammation to reduce joint damage."
+    },
+    "side_effects": {
+      "common": [
+        "Infection Risk"
+      ],
+      "serious": [
+        "Injection Site Reaction",
+        "Liver Toxicity"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Live Vaccines",
+        "effect": "Infection risk with immunosuppressants",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0197",
+    "generic": "Etanercept",
+    "brands": [
+      "Enbrel"
+    ],
+    "area": "Rheumatologic",
+    "category": "Rheumatoid Arthritis / Autoimmune Disease",
+    "class": "Rheumatoid Arthritis",
+    "moa": {
+      "short": "Suppresses immune-mediated inflammation to reduce joint damage."
+    },
+    "side_effects": {
+      "common": [
+        "Infection Risk"
+      ],
+      "serious": [
+        "Injection Site Reaction",
+        "Liver Toxicity"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Live Vaccines",
+        "effect": "Infection risk with immunosuppressants",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0198",
+    "generic": "Methotrexate",
+    "brands": [
+      "Rheumatrex",
+      "Trexall"
+    ],
+    "area": "Rheumatologic",
+    "category": "Rheumatoid Arthritis / Autoimmune Disease",
+    "class": "Rheumatoid Arthritis",
+    "moa": {
+      "short": "Suppresses immune-mediated inflammation to reduce joint damage."
+    },
+    "side_effects": {
+      "common": [
+        "Infection Risk"
+      ],
+      "serious": [
+        "Injection Site Reaction",
+        "Liver Toxicity"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Live Vaccines",
+        "effect": "Infection risk with immunosuppressants",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0199",
+    "generic": "Hydroxychloroquine",
+    "brands": [
+      "Plaquenil"
+    ],
+    "area": "Rheumatologic",
+    "category": "Rheumatoid Arthritis / Autoimmune Disease",
+    "class": "Rheumatoid Arthritis",
+    "moa": {
+      "short": "Suppresses immune-mediated inflammation to reduce joint damage."
+    },
+    "side_effects": {
+      "common": [
+        "Infection Risk"
+      ],
+      "serious": [
+        "Injection Site Reaction",
+        "Liver Toxicity"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Live Vaccines",
+        "effect": "Infection risk with immunosuppressants",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0200",
+    "generic": "Allopurinol",
+    "brands": [
+      "Zyloprim"
+    ],
+    "area": "Rheumatologic",
+    "category": "Gout",
+    "class": "Gout",
+    "moa": {
+      "short": "Lowers uric acid or reduces gout inflammation."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Rash",
+        "Bone Marrow Suppression"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Azathioprine",
+        "effect": "Severe toxicity risk with allopurinol",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0201",
+    "generic": "Colchicine",
+    "brands": [
+      "Colcrys"
+    ],
+    "area": "Rheumatologic",
+    "category": "Gout",
+    "class": "Gout",
+    "moa": {
+      "short": "Lowers uric acid or reduces gout inflammation."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Rash",
+        "Bone Marrow Suppression"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Azathioprine",
+        "effect": "Severe toxicity risk with allopurinol",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0202",
+    "generic": "Diphenhydramine",
+    "brands": [
+      "Benadryl"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Allergic Rhinitis / Allergy / Anaphylaxis",
+    "class": "Allergies",
+    "moa": {
+      "short": "Blocks histamine or treats severe allergic reactions."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Tachycardia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with sedating antihistamines",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0203",
+    "generic": "Loratadine",
+    "brands": [
+      "Claritin"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Allergic Rhinitis / Allergy / Anaphylaxis",
+    "class": "Allergies",
+    "moa": {
+      "short": "Blocks histamine or treats severe allergic reactions."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Tachycardia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with sedating antihistamines",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0204",
+    "generic": "Desloratadine",
+    "brands": [
+      "Clarinex"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Allergic Rhinitis / Allergy / Anaphylaxis",
+    "class": "Allergies",
+    "moa": {
+      "short": "Blocks histamine or treats severe allergic reactions."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Tachycardia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with sedating antihistamines",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0205",
+    "generic": "Fexofenadine",
+    "brands": [
+      "Allegra"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Allergic Rhinitis / Allergy / Anaphylaxis",
+    "class": "Allergies",
+    "moa": {
+      "short": "Blocks histamine or treats severe allergic reactions."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Tachycardia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with sedating antihistamines",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0206",
+    "generic": "Olopatadine",
+    "brands": [
+      "Patanase",
+      "Patanol",
+      "Pataday"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Allergic Rhinitis / Allergy / Anaphylaxis",
+    "class": "Allergies",
+    "moa": {
+      "short": "Blocks histamine or treats severe allergic reactions."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Tachycardia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with sedating antihistamines",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0207",
+    "generic": "Azelastine",
+    "brands": [
+      "Astelin",
+      "Astepro",
+      "Optivar"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Allergic Rhinitis / Allergy / Anaphylaxis",
+    "class": "Allergies",
+    "moa": {
+      "short": "Blocks histamine or treats severe allergic reactions."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Tachycardia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with sedating antihistamines",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0208",
+    "generic": "Epinephrine",
+    "brands": [
+      "EpiPen"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Allergic Rhinitis / Allergy / Anaphylaxis",
+    "class": "Allergies",
+    "moa": {
+      "short": "Blocks histamine or treats severe allergic reactions."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Dry Mouth",
+        "Tachycardia"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CNS Depressants",
+        "effect": "Additive sedation with sedating antihistamines",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0209",
+    "generic": "Mometasone",
+    "brands": [
+      "Nasonex"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Allergic Rhinitis",
+    "class": "Nasal Corticosteroids",
+    "moa": {
+      "short": "Reduces nasal inflammation and allergy symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Nasal Irritation"
+      ],
+      "serious": [
+        "Epistaxis",
+        "Headache"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Strong CYP3A4 Inhibitors",
+        "effect": "May increase steroid exposure",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0210",
+    "generic": "Fluticasone",
+    "brands": [
+      "Flonase"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Allergic Rhinitis",
+    "class": "Nasal Corticosteroids",
+    "moa": {
+      "short": "Reduces nasal inflammation and allergy symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Nasal Irritation"
+      ],
+      "serious": [
+        "Epistaxis",
+        "Headache"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Strong CYP3A4 Inhibitors",
+        "effect": "May increase steroid exposure",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0211",
+    "generic": "Hydrocodone/chlorpheniramine",
+    "brands": [
+      "Tussionex Pennkinetic"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Cough / Cold Symptoms",
+    "class": "Cough and Cold",
+    "moa": {
+      "short": "Relieves cough, mucus, or nasal congestion symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Tachycardia",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Hypertensive reaction risk with decongestants",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0212",
+    "generic": "Benzonatate",
+    "brands": [
+      "Tessalon Perles"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Cough / Cold Symptoms",
+    "class": "Cough and Cold",
+    "moa": {
+      "short": "Relieves cough, mucus, or nasal congestion symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Tachycardia",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Hypertensive reaction risk with decongestants",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0213",
+    "generic": "Guaifenesin",
+    "brands": [
+      "Mucinex"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Cough / Cold Symptoms",
+    "class": "Cough and Cold",
+    "moa": {
+      "short": "Relieves cough, mucus, or nasal congestion symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Tachycardia",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Hypertensive reaction risk with decongestants",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0214",
+    "generic": "Dextromethorphan",
+    "brands": [
+      "Robitussin"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Cough / Cold Symptoms",
+    "class": "Cough and Cold",
+    "moa": {
+      "short": "Relieves cough, mucus, or nasal congestion symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Tachycardia",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Hypertensive reaction risk with decongestants",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0215",
+    "generic": "Pseudoephedrine",
+    "brands": [
+      "Sudafed"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Cough / Cold Symptoms",
+    "class": "Cough and Cold",
+    "moa": {
+      "short": "Relieves cough, mucus, or nasal congestion symptoms."
+    },
+    "side_effects": {
+      "common": [
+        "Drowsiness"
+      ],
+      "serious": [
+        "Tachycardia",
+        "Dizziness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "MAOIs",
+        "effect": "Hypertensive reaction risk with decongestants",
+        "severity": "contraindicated"
+      }
+    ]
+  },
+  {
+    "id": "drug_0216",
+    "generic": "Timolol",
+    "brands": [
+      "Timoptic"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Glaucoma",
+    "class": "Glaucoma",
+    "moa": {
+      "short": "Lowers intraocular pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Eye Irritation"
+      ],
+      "serious": [
+        "Bradycardia",
+        "Eyelash Growth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Additive beta-blocking effects with timolol",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0217",
+    "generic": "Brimonidine",
+    "brands": [
+      "Alphagan P"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Glaucoma",
+    "class": "Glaucoma",
+    "moa": {
+      "short": "Lowers intraocular pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Eye Irritation"
+      ],
+      "serious": [
+        "Bradycardia",
+        "Eyelash Growth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Additive beta-blocking effects with timolol",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0218",
+    "generic": "Brimonidine/timolol",
+    "brands": [
+      "Combigan"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Glaucoma",
+    "class": "Glaucoma",
+    "moa": {
+      "short": "Lowers intraocular pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Eye Irritation"
+      ],
+      "serious": [
+        "Bradycardia",
+        "Eyelash Growth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Additive beta-blocking effects with timolol",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0219",
+    "generic": "Dorzolamide",
+    "brands": [
+      "Trusopt"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Glaucoma",
+    "class": "Glaucoma",
+    "moa": {
+      "short": "Lowers intraocular pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Eye Irritation"
+      ],
+      "serious": [
+        "Bradycardia",
+        "Eyelash Growth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Additive beta-blocking effects with timolol",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0220",
+    "generic": "Bimatoprost",
+    "brands": [
+      "Lumigan"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Glaucoma",
+    "class": "Glaucoma",
+    "moa": {
+      "short": "Lowers intraocular pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Eye Irritation"
+      ],
+      "serious": [
+        "Bradycardia",
+        "Eyelash Growth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Additive beta-blocking effects with timolol",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0221",
+    "generic": "Latanoprost",
+    "brands": [
+      "Xalatan"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Glaucoma",
+    "class": "Glaucoma",
+    "moa": {
+      "short": "Lowers intraocular pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Eye Irritation"
+      ],
+      "serious": [
+        "Bradycardia",
+        "Eyelash Growth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Additive beta-blocking effects with timolol",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0222",
+    "generic": "Travoprost",
+    "brands": [
+      "Travatan Z"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Glaucoma",
+    "class": "Glaucoma",
+    "moa": {
+      "short": "Lowers intraocular pressure."
+    },
+    "side_effects": {
+      "common": [
+        "Eye Irritation"
+      ],
+      "serious": [
+        "Bradycardia",
+        "Eyelash Growth"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Beta Blockers",
+        "effect": "Additive beta-blocking effects with timolol",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0223",
+    "generic": "Cyclosporine [ophthalmic]",
+    "brands": [
+      "Restasis"
+    ],
+    "area": "Ophthalmic and ENT Drugs",
+    "category": "Dry Eye",
+    "class": "Other Ophthalmic Agents",
+    "moa": {
+      "short": "Modulates ocular immune activity or inflammation."
+    },
+    "side_effects": {
+      "common": [
+        "Eye Burning"
+      ],
+      "serious": [
+        "Blurred Vision",
+        "Redness"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Contact Lenses",
+        "effect": "May affect lens wear timing",
+        "severity": "minor"
+      }
+    ]
+  },
+  {
+    "id": "drug_0224",
+    "generic": "Adapalene",
+    "brands": [
+      "Differin"
+    ],
+    "area": "Dermatologic",
+    "category": "Acne",
+    "class": "Acne Vulgaris",
+    "moa": {
+      "short": "Normalizes skin cell turnover or reduces acne inflammation."
+    },
+    "side_effects": {
+      "common": [
+        "Dry Skin"
+      ],
+      "serious": [
+        "Irritation",
+        "Teratogenicity"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Vitamin A Products",
+        "effect": "Increased toxicity with isotretinoin",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0225",
+    "generic": "Isotretinoin",
+    "brands": [
+      "Amnesteem",
+      "Claravis",
+      "Absorica",
+      "Accutane[DSC]"
+    ],
+    "area": "Dermatologic",
+    "category": "Acne",
+    "class": "Acne Vulgaris",
+    "moa": {
+      "short": "Normalizes skin cell turnover or reduces acne inflammation."
+    },
+    "side_effects": {
+      "common": [
+        "Dry Skin"
+      ],
+      "serious": [
+        "Irritation",
+        "Teratogenicity"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Vitamin A Products",
+        "effect": "Increased toxicity with isotretinoin",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0226",
+    "generic": "Amoxicillin",
+    "brands": [
+      "Amoxil"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Beta-Lactam Antibiotics",
+    "moa": {
+      "short": "Inhibits bacterial cell wall synthesis."
+    },
+    "side_effects": {
+      "common": [
+        "Diarrhea"
+      ],
+      "serious": [
+        "Rash",
+        "Allergic Reaction"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0227",
+    "generic": "Amoxicillin/clavulanate",
+    "brands": [
+      "Augmentin"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Beta-Lactam Antibiotics",
+    "moa": {
+      "short": "Inhibits bacterial cell wall synthesis."
+    },
+    "side_effects": {
+      "common": [
+        "Diarrhea"
+      ],
+      "serious": [
+        "Rash",
+        "Allergic Reaction"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0228",
+    "generic": "Cephalexin",
+    "brands": [
+      "Keflex"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Beta-Lactam Antibiotics",
+    "moa": {
+      "short": "Inhibits bacterial cell wall synthesis."
+    },
+    "side_effects": {
+      "common": [
+        "Diarrhea"
+      ],
+      "serious": [
+        "Rash",
+        "Allergic Reaction"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0229",
+    "generic": "Cefuroxime",
+    "brands": [
+      "Ceftin"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Beta-Lactam Antibiotics",
+    "moa": {
+      "short": "Inhibits bacterial cell wall synthesis."
+    },
+    "side_effects": {
+      "common": [
+        "Diarrhea"
+      ],
+      "serious": [
+        "Rash",
+        "Allergic Reaction"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0230",
+    "generic": "Cefdinir",
+    "brands": [
+      "Omnicef"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Beta-Lactam Antibiotics",
+    "moa": {
+      "short": "Inhibits bacterial cell wall synthesis."
+    },
+    "side_effects": {
+      "common": [
+        "Diarrhea"
+      ],
+      "serious": [
+        "Rash",
+        "Allergic Reaction"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0231",
+    "generic": "Ciprofloxacin",
+    "brands": [
+      "Cipro"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Fluoroquinolones",
+    "moa": {
+      "short": "Inhibits bacterial DNA replication enzymes."
+    },
+    "side_effects": {
+      "common": [
+        "Tendon Rupture"
+      ],
+      "serious": [
+        "QT Prolongation",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium/Iron Supplements",
+        "effect": "Reduced antibiotic absorption",
+        "severity": "major"
+      },
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased arrhythmia risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0232",
+    "generic": "Levofloxacin",
+    "brands": [
+      "Levaquin"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Fluoroquinolones",
+    "moa": {
+      "short": "Inhibits bacterial DNA replication enzymes."
+    },
+    "side_effects": {
+      "common": [
+        "Tendon Rupture"
+      ],
+      "serious": [
+        "QT Prolongation",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium/Iron Supplements",
+        "effect": "Reduced antibiotic absorption",
+        "severity": "major"
+      },
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased arrhythmia risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0233",
+    "generic": "Moxifloxacin",
+    "brands": [
+      "Avelox"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Fluoroquinolones",
+    "moa": {
+      "short": "Inhibits bacterial DNA replication enzymes."
+    },
+    "side_effects": {
+      "common": [
+        "Tendon Rupture"
+      ],
+      "serious": [
+        "QT Prolongation",
+        "GI Upset"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Calcium/Iron Supplements",
+        "effect": "Reduced antibiotic absorption",
+        "severity": "major"
+      },
+      {
+        "with": "QT-prolonging Drugs",
+        "effect": "Increased arrhythmia risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0234",
+    "generic": "Clarithromycin",
+    "brands": [
+      "Biaxin"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Macrolides",
+    "moa": {
+      "short": "Inhibits bacterial protein synthesis."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "QT Prolongation",
+        "Liver Enzyme Elevation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Statins",
+        "effect": "Increased myopathy risk",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0235",
+    "generic": "Azithromycin",
+    "brands": [
+      "Zithromax",
+      "Z-Pak"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Macrolides",
+    "moa": {
+      "short": "Inhibits bacterial protein synthesis."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "QT Prolongation",
+        "Liver Enzyme Elevation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Statins",
+        "effect": "Increased myopathy risk",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0236",
+    "generic": "Clindamycin",
+    "brands": [
+      "Cleocin"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Other Antibiotics",
+    "moa": {
+      "short": "Treats bacterial infection through protein, DNA, or folate pathway effects."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Photosensitivity",
+        "C. difficile Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0237",
+    "generic": "Doxycycline",
+    "brands": [
+      "Vibramycin"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Other Antibiotics",
+    "moa": {
+      "short": "Treats bacterial infection through protein, DNA, or folate pathway effects."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Photosensitivity",
+        "C. difficile Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0238",
+    "generic": "Linezolid",
+    "brands": [
+      "Zyvox"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Other Antibiotics",
+    "moa": {
+      "short": "Treats bacterial infection through protein, DNA, or folate pathway effects."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Photosensitivity",
+        "C. difficile Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0239",
+    "generic": "Nitrofurantoin",
+    "brands": [
+      "Macrobid",
+      "Macrodantin"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Other Antibiotics",
+    "moa": {
+      "short": "Treats bacterial infection through protein, DNA, or folate pathway effects."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Photosensitivity",
+        "C. difficile Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0240",
+    "generic": "Metronidazole",
+    "brands": [
+      "Flagyl"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Other Antibiotics",
+    "moa": {
+      "short": "Treats bacterial infection through protein, DNA, or folate pathway effects."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Photosensitivity",
+        "C. difficile Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0241",
+    "generic": "Sulfamethoxazole/trimethoprim",
+    "brands": [
+      "Bactrim"
+    ],
+    "area": "Infectious Disease",
+    "category": "Bacterial Infection",
+    "class": "Other Antibiotics",
+    "moa": {
+      "short": "Treats bacterial infection through protein, DNA, or folate pathway effects."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Photosensitivity",
+        "C. difficile Risk"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR or bleeding risk",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0242",
+    "generic": "Fluconazole",
+    "brands": [
+      "Diflucan"
+    ],
+    "area": "Infectious Disease",
+    "category": "Fungal Infection",
+    "class": "Triazole Antifungals",
+    "moa": {
+      "short": "Inhibits fungal ergosterol synthesis."
+    },
+    "side_effects": {
+      "common": [
+        "Liver Toxicity"
+      ],
+      "serious": [
+        "GI Upset",
+        "QT Prolongation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Statins",
+        "effect": "Increased myopathy risk",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0243",
+    "generic": "Itraconazole",
+    "brands": [
+      "Sporanox"
+    ],
+    "area": "Infectious Disease",
+    "category": "Fungal Infection",
+    "class": "Triazole Antifungals",
+    "moa": {
+      "short": "Inhibits fungal ergosterol synthesis."
+    },
+    "side_effects": {
+      "common": [
+        "Liver Toxicity"
+      ],
+      "serious": [
+        "GI Upset",
+        "QT Prolongation"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Statins",
+        "effect": "Increased myopathy risk",
+        "severity": "major"
+      },
+      {
+        "with": "Warfarin",
+        "effect": "May increase INR",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0244",
+    "generic": "Oseltamivir",
+    "brands": [
+      "Tamiflu"
+    ],
+    "area": "Infectious Disease",
+    "category": "Influenza / Herpes Virus Infection",
+    "class": "Antivirals",
+    "moa": {
+      "short": "Blocks viral replication or viral enzyme activity."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Headache",
+        "Kidney Effects"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Nephrotoxic Drugs",
+        "effect": "Increased kidney risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0245",
+    "generic": "Acyclovir",
+    "brands": [
+      "Zovirax"
+    ],
+    "area": "Infectious Disease",
+    "category": "Influenza / Herpes Virus Infection",
+    "class": "Antivirals",
+    "moa": {
+      "short": "Blocks viral replication or viral enzyme activity."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Headache",
+        "Kidney Effects"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Nephrotoxic Drugs",
+        "effect": "Increased kidney risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0246",
+    "generic": "Valacyclovir",
+    "brands": [
+      "Valtrex"
+    ],
+    "area": "Infectious Disease",
+    "category": "Influenza / Herpes Virus Infection",
+    "class": "Antivirals",
+    "moa": {
+      "short": "Blocks viral replication or viral enzyme activity."
+    },
+    "side_effects": {
+      "common": [
+        "Nausea"
+      ],
+      "serious": [
+        "Headache",
+        "Kidney Effects"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "Nephrotoxic Drugs",
+        "effect": "Increased kidney risk",
+        "severity": "moderate"
+      }
+    ]
+  },
+  {
+    "id": "drug_0247",
+    "generic": "Emtricitabine; tenofovir",
+    "brands": [
+      "Truvada"
+    ],
+    "area": "Infectious Disease",
+    "category": "HIV Infection",
+    "class": "HIV Medications",
+    "moa": {
+      "short": "Blocks HIV replication through reverse transcriptase or integrase pathway inhibition."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Kidney Effects",
+        "Rash"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CYP3A Interacting Drugs",
+        "effect": "Drug levels may change significantly",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0248",
+    "generic": "Emtricitabine; tenofovir; efavirenz",
+    "brands": [
+      "Atripla"
+    ],
+    "area": "Infectious Disease",
+    "category": "HIV Infection",
+    "class": "HIV Medications",
+    "moa": {
+      "short": "Blocks HIV replication through reverse transcriptase or integrase pathway inhibition."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Kidney Effects",
+        "Rash"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CYP3A Interacting Drugs",
+        "effect": "Drug levels may change significantly",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0249",
+    "generic": "Emtricitabine; tenofovir; rilpivirine",
+    "brands": [
+      "Complera"
+    ],
+    "area": "Infectious Disease",
+    "category": "HIV Infection",
+    "class": "HIV Medications",
+    "moa": {
+      "short": "Blocks HIV replication through reverse transcriptase or integrase pathway inhibition."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Kidney Effects",
+        "Rash"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CYP3A Interacting Drugs",
+        "effect": "Drug levels may change significantly",
+        "severity": "major"
+      }
+    ]
+  },
+  {
+    "id": "drug_0250",
+    "generic": "Emtricitabine; tenofovir; elvitegravir; cobicistat",
+    "brands": [
+      "Stribild"
+    ],
+    "area": "Infectious Disease",
+    "category": "HIV Infection",
+    "class": "HIV Medications",
+    "moa": {
+      "short": "Blocks HIV replication through reverse transcriptase or integrase pathway inhibition."
+    },
+    "side_effects": {
+      "common": [
+        "GI Upset"
+      ],
+      "serious": [
+        "Kidney Effects",
+        "Rash"
+      ]
+    },
+    "interactions": [
+      {
+        "with": "CYP3A Interacting Drugs",
+        "effect": "Drug levels may change significantly",
+        "severity": "major"
+      }
+    ]
+  }
+]
