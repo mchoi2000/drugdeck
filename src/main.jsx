@@ -1,8 +1,8 @@
 import React, { useMemo, useState } from 'react'
 import { createRoot } from 'react-dom/client'
 import { RotateCcw, Shuffle, Check, X, Sparkles, SlidersHorizontal, Layers } from 'lucide-react'
-import drugs from './data/top250_drug_data_extended.json'
-import quizBank from './data/quiz_bank_extended.json'
+import drugs from './data/top200.json'
+import quizBank from './data/top200_quiz.json'
 import meta from './data/drugdeck_metadata.json'
 import './styles.css'
 
@@ -67,14 +67,9 @@ function Header() {
         <a href="/" className="rounded-md border border-eleo-green/30 bg-white px-3 py-1.5 hover:border-eleo-green hover:text-eleo-ink">Home</a>
       </nav>
       <div className="rounded-2xl border border-eleo-line bg-eleo-card p-6 shadow-soft md:p-8">
-        <p className="inline-flex items-center gap-2 rounded-full border border-eleo-green/25 bg-eleo-green/10 px-3 py-1 text-[0.7rem] font-medium uppercase tracking-[0.16em] text-eleo-green"><span className="h-1.5 w-1.5 rounded-full bg-eleo-green" />DrugDeck</p>
-        <h1 className="mt-5 max-w-5xl font-serif text-4xl font-light leading-tight tracking-[-0.03em] md:text-6xl">Master drugs by <em className="text-eleo-green">scope</em>, not by bulk.</h1>
-        <p className="mt-4 max-w-2xl text-base font-light leading-7 text-eleo-muted md:text-lg">Focused flashcards and high-yield quizzes for top 200 drugs and more. Choose area, choose class, then learn only what you came to master.</p>
+        <h1 className="mt-5 max-w-5xl font-serif text-4xl font-light leading-tight tracking-[-0.03em] md:text-6xl">Master top 200 drugs by <em className="text-eleo-green">scope</em>.</h1>
+        <p className="mt-4 max-w-1xl text-base font-light leading-7 text-eleo-muted md:text-lg">Focus on what you want to learn today.</p>
         <div className="mt-6 flex flex-wrap gap-2 text-xs text-eleo-muted">
-          <Pill>{meta.drug_count} drugs</Pill>
-          <Pill>{meta.quiz_count} quiz prompts</Pill>
-          <Pill>Stateless</Pill>
-          <Pill>Brand names render with ®</Pill>
         </div>
       </div>
     </header>
@@ -97,10 +92,6 @@ function ScopePanel({ areas, selectedAreas, setSelectedAreas, classes, selectedC
       </div>
       <ScopeGroup title="Area" items={areas} selected={selectedAreas} onToggle={(v) => toggle(v, selectedAreas, setSelectedAreas)} onAll={() => setSelectedAreas(areas)} onNone={() => setSelectedAreas([])} />
       <ScopeGroup title="Class" items={classes} selected={selectedClasses} onToggle={(v) => toggle(v, selectedClasses, setSelectedClasses)} onAll={() => setSelectedClasses(classes)} onNone={() => setSelectedClasses([])} />
-      <div className="mt-4 rounded-2xl bg-eleo-sage p-4 text-sm">
-        <div className="flex justify-between"><span className="text-eleo-muted">Cards</span><span className="font-medium">{scopedCount}</span></div>
-        <div className="mt-1 flex justify-between"><span className="text-eleo-muted">Quiz prompts</span><span className="font-medium">{quizCount}</span></div>
-      </div>
     </aside>
   )
 }
