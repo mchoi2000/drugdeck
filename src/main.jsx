@@ -90,7 +90,7 @@ function ScopePanel({ areas, selectedAreas, setSelectedAreas, classes, selectedC
         <SlidersHorizontal className="h-4 w-4 text-eleo-green" />
         <h2 className="text-lg font-medium">Study scope</h2>
       </div>
-      <ScopeGroup title="Area" items={areas} selected={selectedAreas} onToggle={(v) => toggle(v, selectedAreas, setSelectedAreas)} onAll={() => setSelectedAreas(areas)} onNone={() => setSelectedAreas([])} />
+      <ScopeGroup title="Category" items={areas} selected={selectedAreas} onToggle={(v) => toggle(v, selectedAreas, setSelectedAreas)} onAll={() => setSelectedAreas(areas)} onNone={() => setSelectedAreas([])} />
       <ScopeGroup title="Class" items={classes} selected={selectedClasses} onToggle={(v) => toggle(v, selectedClasses, setSelectedClasses)} onAll={() => setSelectedClasses(classes)} onNone={() => setSelectedClasses([])} />
     </aside>
   )
