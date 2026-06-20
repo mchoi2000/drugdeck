@@ -67,8 +67,8 @@ function Header() {
         <a href="/" className="rounded-md border border-eleo-green/30 bg-white px-3 py-1.5 hover:border-eleo-green hover:text-eleo-ink">Home</a>
       </nav>
       <div className="rounded-2xl border border-eleo-line bg-eleo-card p-6 shadow-soft md:p-8">
-        <h1 className="mt-5 max-w-5xl font-serif text-4xl font-light leading-tight tracking-[-0.03em] md:text-6xl">Master top 200 drugs by <em className="text-eleo-green">scope</em>.</h1>
-        <p className="mt-4 max-w-1xl text-base font-light leading-7 text-eleo-muted md:text-lg">Focus on what you want to learn today.</p>
+        <h1 className="mt-5 max-w-5xl font-serif text-3xl font-light leading-tight tracking-[-0.03em] md:text-5xl">Master top 200 drug names by <em className="text-eleo-green">therapeutic classes</em>.</h1>
+        <p className="mt-4 max-w-1xl text-base font-light leading-7 text-eleo-muted md:text-lg">Start with generic names and progress to brand names. Learn 'more' about each drug.</p>
         <div className="mt-6 flex flex-wrap gap-2 text-xs text-eleo-muted">
         </div>
       </div>
@@ -121,8 +121,8 @@ function ScopeGroup({ title, items, selected, onToggle, onAll, onNone }) {
 function ModeTabs({ mode, setMode }) {
   return (
     <div className="flex rounded-full border border-eleo-green/25 bg-eleo-card p-1 shadow-soft">
-      <button onClick={() => setMode('cards')} className={`flex-1 rounded-full px-4 py-2 text-sm font-medium transition ${mode === 'cards' ? 'bg-eleo-green text-white' : 'text-eleo-muted hover:text-eleo-green'}`}>drug deck</button>
-      <button onClick={() => setMode('quiz')} className={`flex-1 rounded-full px-4 py-2 text-sm font-medium transition ${mode === 'quiz' ? 'bg-eleo-muted text-white' : 'text-eleo-muted hover:text-eleo-green'}`}>drug quiz</button>
+      <button onClick={() => setMode('cards')} className={`flex-1 rounded-full px-4 py-2 text-sm font-medium transition ${mode === 'cards' ? 'bg-eleo-green text-white' : 'text-eleo-muted hover:text-eleo-green'}`}>Generic ↔ Brand</button>
+      <button onClick={() => setMode('quiz')} className={`flex-1 rounded-full px-4 py-2 text-sm font-medium transition ${mode === 'quiz' ? 'bg-eleo-muted text-white' : 'text-eleo-muted hover:text-eleo-green'}`}>Retrieval Test</button>
     </div>
   )
 }
@@ -186,9 +186,9 @@ function FrontCard({ item }) {
   return (
     <div className="flex h-full min-h-[360px] flex-col items-center justify-center">
       {item.kind === 'brand' ? (
-        <BrandName name={item.front} className="text-4xl font-medium tracking-tight md:text-6xl" />
+        <BrandName name={item.front} className="text-4xl font-medium tracking-tight md:text-4xl" />
       ) : (
-        <p className="text-4xl font-medium tracking-tight md:text-6xl">{item.front}</p>
+        <p className="text-4xl font-medium tracking-tight md:text-4xl">{item.front}</p>
       )}
       <p className="mt-8 text-sm text-eleo-muted">tap to flip</p>
     </div>
@@ -205,9 +205,9 @@ function BackCard({ item, showMore, setShowMore }) {
       </p>
       <div className="mt-7 space-y-3">
         {isBrandFront ? (
-          <p className="text-4xl font-medium tracking-tight md:text-5xl">{card.generic}</p>
+          <p className="text-4xl font-medium tracking-tight md:text-4xl">{card.generic}</p>
         ) : (
-          card.brands.map((brand) => <p key={brand}><BrandName name={brand} className="text-4xl font-medium tracking-tight md:text-5xl" /></p>)
+          card.brands.map((brand) => <p key={brand}><BrandName name={brand} className="text-4xl font-medium tracking-tight md:text-4xl" /></p>)
         )}
       </div>
       {!showMore && <button onClick={(e) => { e.stopPropagation(); setShowMore(true) }} className="mt-10 text-sm lowercase text-eleo-muted underline-offset-4 hover:text-eleo-green hover:underline">more</button>}
@@ -226,8 +226,8 @@ function DrugProfile({ card }) {
         <Mini label="Class" value={card.class} />
       </div>
       <Info title="MOA" value={card.moa.short} />
-      <Info title="High-yield side effects" value={ses.join(' • ')} />
-      <Info title="High-yield interactions" value={card.interactions.map((i) => `${i.with}: ${i.effect}`).join(' • ')} />
+      <Info title="Side effects" value={ses.join(' • ')} />
+      <Info title="Interactions" value={card.interactions.map((i) => `${i.with}: ${i.effect}`).join(' • ')} />
     </div>
   )
 }
