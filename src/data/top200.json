@@ -5461,7 +5461,7 @@
     "brands": [
       "Amoxil"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Beta-Lactam Antibiotics",
     "moa": {
@@ -5490,7 +5490,7 @@
     "brands": [
       "Augmentin"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Beta-Lactam Antibiotics",
     "moa": {
@@ -5519,7 +5519,7 @@
     "brands": [
       "Keflex"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Beta-Lactam Antibiotics",
     "moa": {
@@ -5548,7 +5548,7 @@
     "brands": [
       "Ceftin"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Beta-Lactam Antibiotics",
     "moa": {
@@ -5577,7 +5577,7 @@
     "brands": [
       "Omnicef"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Beta-Lactam Antibiotics",
     "moa": {
@@ -5606,7 +5606,7 @@
     "brands": [
       "Cipro"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Fluoroquinolones",
     "moa": {
@@ -5640,7 +5640,7 @@
     "brands": [
       "Levaquin"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Fluoroquinolones",
     "moa": {
@@ -5674,7 +5674,7 @@
     "brands": [
       "Avelox"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Fluoroquinolones",
     "moa": {
@@ -5708,7 +5708,7 @@
     "brands": [
       "Biaxin"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Macrolides",
     "moa": {
@@ -5743,7 +5743,7 @@
       "Zithromax",
       "Z-Pak"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Macrolides",
     "moa": {
@@ -5777,7 +5777,7 @@
     "brands": [
       "Cleocin"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Other Antibiotics",
     "moa": {
@@ -5806,7 +5806,7 @@
     "brands": [
       "Vibramycin"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Other Antibiotics",
     "moa": {
@@ -5835,7 +5835,7 @@
     "brands": [
       "Zyvox"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Other Antibiotics",
     "moa": {
@@ -5865,7 +5865,7 @@
       "Macrobid",
       "Macrodantin"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Other Antibiotics",
     "moa": {
@@ -5894,7 +5894,7 @@
     "brands": [
       "Flagyl"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Other Antibiotics",
     "moa": {
@@ -5923,7 +5923,7 @@
     "brands": [
       "Bactrim"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Bacterial Infection",
     "class": "Other Antibiotics",
     "moa": {
@@ -5952,7 +5952,7 @@
     "brands": [
       "Diflucan"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Fungal Infection",
     "class": "Triazole Antifungals",
     "moa": {
@@ -5986,7 +5986,7 @@
     "brands": [
       "Sporanox"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Fungal Infection",
     "class": "Triazole Antifungals",
     "moa": {
@@ -6020,7 +6020,7 @@
     "brands": [
       "Tamiflu"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Influenza / Herpes Virus Infection",
     "class": "Antivirals",
     "moa": {
@@ -6049,7 +6049,7 @@
     "brands": [
       "Zovirax"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Influenza / Herpes Virus Infection",
     "class": "Antivirals",
     "moa": {
@@ -6078,7 +6078,7 @@
     "brands": [
       "Valtrex"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "Influenza / Herpes Virus Infection",
     "class": "Antivirals",
     "moa": {
@@ -6107,7 +6107,7 @@
     "brands": [
       "Truvada"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "HIV Infection",
     "class": "HIV Medications",
     "moa": {
@@ -6136,7 +6136,7 @@
     "brands": [
       "Atripla"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "HIV Infection",
     "class": "HIV Medications",
     "moa": {
@@ -6165,7 +6165,7 @@
     "brands": [
       "Complera"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "HIV Infection",
     "class": "HIV Medications",
     "moa": {
@@ -6194,7 +6194,7 @@
     "brands": [
       "Stribild"
     ],
-    "area": "Infectious",
+    "area": "Infectious Disease",
     "category": "HIV Infection",
     "class": "HIV Medications",
     "moa": {

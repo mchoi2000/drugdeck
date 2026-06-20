@@ -67,7 +67,7 @@ function Header() {
         <a href="/" className="rounded-md border border-eleo-green/30 bg-white px-3 py-1.5 hover:border-eleo-green hover:text-eleo-ink">Home</a>
       </nav>
       <div className="rounded-2xl border border-eleo-line bg-eleo-card p-6 shadow-soft md:p-8">
-        <h1 className="mt-5 max-w-5xl font-serif text-3xl font-light leading-tight tracking-[-0.03em] md:text-5xl">Master top 200 drug names by <em className="text-eleo-green">therapeutic classes</em>.</h1>
+        <h1 className="mt-5 max-w-5xl font-serif text-3xl font-light leading-tight tracking-[-0.03em] md:text-5xl">Master top 200 drugs by <em className="text-eleo-green">therapeutic classes</em>.</h1>
         <p className="mt-4 max-w-1xl text-base font-light leading-7 text-eleo-muted md:text-lg">Start with generic names and progress to brand names. Learn 'more' about each drug.</p>
         <div className="mt-6 flex flex-wrap gap-2 text-xs text-eleo-muted">
         </div>
@@ -90,7 +90,7 @@ function ScopePanel({ areas, selectedAreas, setSelectedAreas, classes, selectedC
         <SlidersHorizontal className="h-4 w-4 text-eleo-green" />
         <h2 className="text-lg font-medium">Study scope</h2>
       </div>
-      <ScopeGroup title="Category" items={areas} selected={selectedAreas} onToggle={(v) => toggle(v, selectedAreas, setSelectedAreas)} onAll={() => setSelectedAreas(areas)} onNone={() => setSelectedAreas([])} />
+      <ScopeGroup title="Therapeutic Area" items={areas} selected={selectedAreas} onToggle={(v) => toggle(v, selectedAreas, setSelectedAreas)} onAll={() => setSelectedAreas(areas)} onNone={() => setSelectedAreas([])} />
       <ScopeGroup title="Class" items={classes} selected={selectedClasses} onToggle={(v) => toggle(v, selectedClasses, setSelectedClasses)} onAll={() => setSelectedClasses(classes)} onNone={() => setSelectedClasses([])} />
     </aside>
   )
@@ -175,7 +175,7 @@ function Flashcards({ scopedDrugs, frontKind, setFrontKind }) {
 function FrontKindToggle({ frontKind, setFront }) {
   return (
     <div className="inline-flex items-center gap-1 rounded-full border border-eleo-green/30 bg-white p-1">
-      <span className="hidden items-center gap-1 px-2 text-xs text-eleo-muted sm:inline-flex"><Layers className="h-3.5 w-3.5" /> front</span>
+      <span className="hidden items-center gap-1 px-2 text-xs text-eleo-muted sm:inline-flex"><Layers className="h-3.5 w-3.5" /> front:</span>
       <button onClick={() => setFront('generic')} className={`rounded-full px-3 py-1 text-xs font-medium ${frontKind === 'generic' ? 'bg-eleo-green text-white' : 'text-eleo-muted hover:text-eleo-ink'}`}>generic</button>
       <button onClick={() => setFront('brand')} className={`rounded-full px-3 py-1 text-xs font-medium ${frontKind === 'brand' ? 'bg-eleo-green text-white' : 'text-eleo-muted hover:text-eleo-ink'}`}>brand</button>
     </div>
