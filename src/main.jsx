@@ -184,13 +184,22 @@ function FrontKindToggle({ frontKind, setFront }) {
 
 function FrontCard({ item }) {
   return (
-    <div className="flex h-full min-h-[360px] flex-col items-center justify-center">
-      {item.kind === 'brand' ? (
-        <BrandName name={item.front} className="text-4xl font-medium tracking-tight md:text-4xl" />
-      ) : (
-        <p className="text-4xl font-medium tracking-tight md:text-4xl">{item.front}</p>
-      )}
-      <p className="mt-8 text-sm text-eleo-muted">tap to flip</p>
+    <div className="relative h-[360px] w-full">
+      <div className="absolute inset-0 flex items-center justify-center">
+        {item.kind === 'brand' ? (
+          <BrandName
+            name={item.front}
+            className="text-4xl font-medium tracking-tight md:text-4xl"
+          />
+        ) : (
+          <p className="text-4xl font-medium tracking-tight md:text-4xl">
+            {item.front}
+          </p>
+        )}
+      </div>
+      <p className="absolute bottom-20 left-1/2 -translate-x-1/2 text-sm text-eleo-muted">
+        tap to flip
+      </p>
     </div>
   )
 }
