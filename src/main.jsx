@@ -67,7 +67,7 @@ function Header() {
         <a href="/" className="rounded-md border border-eleo-green/30 bg-white px-3 py-1.5 hover:border-eleo-green hover:text-eleo-ink">Home</a>
       </nav>
       <div className="rounded-2xl border border-eleo-line bg-eleo-card p-6 shadow-soft md:p-8">
-        <h1 className="mt-5 max-w-5xl font-serif text-3xl font-light leading-tight tracking-[-0.03em] md:text-5xl">Master top 200 drugs by <em className="text-eleo-green">therapeutic classes</em>.</h1>
+        <h1 className="mt-5 max-w-5xl font-serif text-3xl font-light leading-tight tracking-[-0.03em] md:text-5xl">Master top 200 drugs by <em className="text-eleo-green">therapeutic scope</em>.</h1>
         <p className="mt-4 max-w-1xl text-base font-light leading-7 text-eleo-muted md:text-lg">Start with generic names and progress to brand names. Learn 'more' about each drug.</p>
         <div className="mt-6 flex flex-wrap gap-2 text-xs text-eleo-muted">
         </div>
@@ -122,7 +122,7 @@ function ModeTabs({ mode, setMode }) {
   return (
     <div className="flex rounded-full border border-eleo-green/25 bg-eleo-card p-1 shadow-soft">
       <button onClick={() => setMode('cards')} className={`flex-1 rounded-full px-4 py-2 text-sm font-medium transition ${mode === 'cards' ? 'bg-eleo-green text-white' : 'text-eleo-muted hover:text-eleo-green'}`}>Generic ↔ Brand</button>
-      <button onClick={() => setMode('quiz')} className={`flex-1 rounded-full px-4 py-2 text-sm font-medium transition ${mode === 'quiz' ? 'bg-eleo-muted text-white' : 'text-eleo-muted hover:text-eleo-green'}`}>Retrieval Test</button>
+      <button onClick={() => setMode('quiz')} className={`flex-1 rounded-full px-4 py-2 text-sm font-medium transition ${mode === 'quiz' ? 'bg-eleo-muted text-white' : 'text-eleo-muted hover:text-eleo-green'}`}>Test</button>
     </div>
   )
 }
@@ -157,7 +157,7 @@ function Flashcards({ scopedDrugs, frontKind, setFrontKind }) {
           <button onClick={randomize} className="inline-flex items-center gap-1 rounded-full border border-eleo-green/30 px-3 py-1 hover:border-eleo-green hover:text-eleo-ink"><Shuffle className="h-3.5 w-3.5" /> shuffle</button>
         </div>
       </div>
-      <button onClick={() => { setFlipped((v) => !v); if (flipped) setShowMore(false) }} className="min-h-[420px] w-full rounded-[1.4rem] border border-eleo-green/25 bg-gradient-to-b from-white to-eleo-soft p-8 text-center transition hover:-translate-y-0.5 hover:border-eleo-green/50 hover:shadow-soft focus:outline-none focus:ring-2 focus:ring-eleo-green/20">
+      <button onClick={() => { setFlipped((v) => !v); if (flipped) setShowMore(false) }} className={`min-h-[420px] w-full rounded-[1.4rem] border border-eleo-green/25 p-8 text-center transition ${flipped ? 'bg-eleo-green/20' : 'bg-gradient-to-b from-white to-eleo-soft'} hover:-translate-y-0.5 hover:border-eleo-green/50 hover:shadow-soft focus:outline-none focus:ring-2 focus:ring-eleo-green/20`}>
         {!flipped ? (
           <FrontCard item={item} />
         ) : (
